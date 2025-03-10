@@ -1,0 +1,7 @@
+# Project Instructions
+
+This document tracks all activities and their associated instructions.
+
+## Activity Log
+
+--Initial setup: Create basic project structure and documentation framework. 

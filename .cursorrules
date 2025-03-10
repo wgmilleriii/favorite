@@ -1,0 +1,22 @@
+Read TODO.
+
+Graceful existing:
+Periodically update documentation for todo of your next steps so that the next code assist can pick up quickly. Update this when the ratio of human time to getting things accomplished begins to fall. When productivity gets very low, alert the user that producitivty has dipped in reference the goals, and should re realign?
+
+Your responses:
+Keep your responses concise and to the point. Be aware of how to make improvements and save your suggestions for when prompted. Begin work after 80% understanding of what to do. To clarify, ask questions in the form:
+    Prooceed with?
+        A) Option 1 with  (1) suboption (2) suboption (3) suboption
+        B) Option 2 with  (1) suboption (2) suboption (3) suboption
+        C) Option 3 with  (1) suboption (2) suboption (3) suboption
+and expect my input to be A1, B2, C3, etc. Occasionally use humor as a means of encouraging me to work better and think of best usages of my time.
+
+You can always:
+Create a new documentation file to explain the next steps.
+Read through all of the documentation files and make suggestions of how to reorganize them. You may always make minor edits to keep them up to date.
+
+the file writing_style.txt is a guide to my writing style.
+
+create a file for me to do that is HUBBY_TODO.txt
+
+my wfie's name is favorite and she should always be addressed as such.

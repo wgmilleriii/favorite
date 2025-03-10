@@ -1,0 +1,34 @@
+Key Color: The Art of Piano Tuning (2014)
+A Romantic Key Cycle
+Dr. Willis Glen "Chip" Miller, III, pianist
+InterviewProgram NotesListener's GuideListen OnlineOrder the CDAbout the Artist
+Music, Art, and Data
+When people ask me how many years I've been studying music, I usually respond, "all of them."
+
+Work
+Technically, my music lessons started when I was four.  At age eleven, I took a two-month class in computer programming while attending Interlochen, the world's most renowed summer arts festival. Ten years later, the worlds of computer science and music combined into what would develop into my doctoral dissertation - a study on the emotional and psychological impacts of tuning systems in classical music:
+
+	
+Screenshots of interactive demonstrations of tuning systems from the 18th and 19th centuries.
+The work contains 432 musical examples, in eleven different tuning systems.
+
+
+For these studies, I surrounded myself with sounds from tuning systems of the seventeenth and eighteenth centuries and coded messages from Johann Sebastian Bach discovered in 1980, whose work became the foundation for Beethoven, Schumann, Schubert, and countless musicians throughout history.  
+
+
+
+The graph above is a Young's tuning system, laid out in the circle of fifths - the green represents major thirds.  You can see the shape of the major thirds increasing and decreasing through the circle of fifths - some thirds are brighter, some are darker. Each key has a distinct personality, and a unique psychological effect on the listener. Through the years, as my musical sensitivity increased, I began to associate colors with different keys.  These colors are reflected in the artwork on this site.
+
+Biography
+Data artist and classical pianist Dr. Willis Glen "Chip" Miller, III  grew up in Richmond, VA. He is a student of Ruth Tomfohrde, Nelita True, Landon Bilyeu, Wesley Ball, Jessica Masse, his mother, and a myriad of other musicians, data engineers, artists, and other human beings. His mother (and first teacher) was an oboist, singer, and pianist; his father was a clarinetist - the two met in music school at East Carolina.
+
+Dr. Miller began piano studies at the age of 4, and had his professional debut at age 11. He has received international recognition at the Young Keyboard Artists Association International Piano Competition, Music Teacher's National Association Competition, and the Stravinsky International Piano Competition. Since 2003, he has specialized in the music of J. S. Bach.
+
+In the 2010-2011 season, Dr. Miller presented twenty-five recitals in Austin, TX, and Boulder, CO, as an overview of piano literature, including works of Bach, Mozart, Haydn, Beethoven, Brahms, Schumann, Liszt, Busoni, Ginastera, and Bolcom. These presentations included interpretative biographies and anecdotes of the composers, as well as backgrounds of the compositions themselves, giving audiences new and living insight into these masterpieces of art and geniouses of the craft.
+
+Since 2011, Dr. Miller has focused on reviving 18th and 19th Century tuning techniques, through data representations of tuning systems, a recording of romantic music paired with Bach's tuning, and the Goldberg Variations 32 Pianos project.
+
+After studying for six summers at the Interlochen Music Festival, Dr. Miller received his Bachelor's degree from Virginia Commonwealth University, his Master's from Eastman, and Doctorate from the Moores School of Music at the University of Houston. He has held a private studio for ten years, and has been a guest artist and faculty member at the Austin Waldorf School, the University of Houston, Virginia Commonwealth University, the Interlochen Pathfinder School, and the Interlochen Arts Academy.
+
+His recordings are available online here, here, here, here, and here. He is the designer and author of TheArtOfPianoTuning.com, a site devoted to the preserving the art, science, and history of piano tuning, and Colormusik, the world's first full color music publisher.
+
