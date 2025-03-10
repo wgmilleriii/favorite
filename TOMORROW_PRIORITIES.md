@@ -14,10 +14,17 @@
 - **Status**: Needs scheduling ASAP
 
 ### 2. Printify Project Follow-up
-- **Documents**: See [KATIE_TEXT_MESSAGE.txt](KATIE_TEXT_MESSAGE.txt)
-- **Action Needed**: Check if Katie has responded to text message
-- **Next Step**: If she's created account, send store connection link
-- **Status**: Waiting for Katie's confirmation of account creation
+- **Documents**: See [KATIE_PRINTIFY_RESPONSE.txt](KATIE_PRINTIFY_RESPONSE.txt)
+- **Action Needed**: Follow up on Katie's confusion about the Printify link
+- **Next Step**: Schedule a 5-minute call to walk her through account creation and store connection
+- **Status**: Katie responded with confusion about what to download - needs direct guidance
+- **Note**: She successfully clicked the link but doesn't understand next steps
+
+### 3. Chip's Passenger Seatbelt Replacement
+- **Documents**: See [CHIP_SEATBELT_REPLACEMENT.md](CHIP_SEATBELT_REPLACEMENT.md)
+- **First Action**: Gather vehicle information and current seatbelt issue details
+- **Second Action**: Research replacement options and costs
+- **Status**: Planning phase - needs assessment and service scheduling
 
 ## 🗂️ Key Project Status
 
@@ -57,6 +64,11 @@
 - **Safelite**: 505-832-8001 (recommended first call)
 - See other options in [WINDSHIELD_REPLACEMENT_OPTIONS.md](WINDSHIELD_REPLACEMENT_OPTIONS.md)
 
+### Vehicle Repair
+- **AutoZone**: Local parts store for seatbelt options
+- **Local Mechanics**: Research needed for seatbelt installation
+- **Vehicle Dealership**: Option for OEM parts and installation
+
 ### Family
 - **Katie**: Text/call for Printify progress and windshield updates
 
@@ -65,16 +77,26 @@
 | File Name | Purpose | Priority |
 |-----------|---------|----------|
 | WINDSHIELD_REPLACEMENT_OPTIONS.md | Contact info for windshield repair | HIGH |
-| KATIE_TEXT_MESSAGE.txt | Text sent for Printify follow-up | HIGH |
+| KATIE_PRINTIFY_RESPONSE.txt | New response to Katie's confusion | HIGH |
+| CHIP_SEATBELT_REPLACEMENT.md | Guide for passenger seatbelt replacement | HIGH |
 | NEXT_STEPS.md | Overall action plan and timeline | MEDIUM |
 | UNDERSTANDING_KATIE.md | Communication guidance | REFERENCE |
+| MILLER_FAMILY_PROFILE.md | Updated with Chip's income | REFERENCE |
+| FINANCIAL_PLANNING_GUIDE.md | Updated with income details | REFERENCE |
 
 ## 📝 Notes for Tomorrow
 
+- **Katie has responded about Printify** - she's confused about what to download
+- Consider a 5-minute phone call as the fastest solution for Printify confusion
 - Katie may need extra time to respond (see communication notes)
 - Consider recording a brief Printify walkthrough video if she continues to have trouble
 - If calling multiple windshield services, create a comparison of quotes
 - Remember to verify if insurance has preferred providers before committing
+- Financial documents have been updated with Chip's annual income ($40K)
+- Consider updating Katie's income information when available
+- Remember Chip's dietary needs (Mediterranean diet, 16:8 intermittent fasting)
+- Family profile updated with Chip's age (48) and dietary information
+- Two vehicle issues need attention: Katie's windshield and Chip's seatbelt
 
 ---
 

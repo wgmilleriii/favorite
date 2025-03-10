@@ -10,6 +10,7 @@
 ### Chip Miller
 - **Full Name**: Willis Glen "Chip" Miller, III
 - **Date of Birth**: September 9, 1975
+- **Age**: 48 years old
 - **Residence**: Albuquerque, NM
 - **Professional**: 
   - Doctor of Musical Arts
@@ -18,10 +19,25 @@
   - Annual Income: $40,000 from piano technician business
 - **Personal**: Introvert who values communication through writing
 - **Origin**: Grew up in Richmond, Virginia
+- **Diet**: 
+  - Mediterranean diet focus
+  - Minimizing processed foods and refined sugars
+  - Intermittent fasting (16:8 pattern)
+  - Daily calorie target: ~2,000 calories
 
 ### Favorite (Wife)
 - **Relationship**: Married to Chip
 - **Dynamic**: Extrovert (complementary to Chip's introversion)
+
+### Megan (Daughter)
+- **Relationship**: Chip's daughter
+- **Residence**: [To be confirmed]
+- **Age/Status**: [To be confirmed]
+
+### Ashley (Daughter)
+- **Relationship**: Chip's daughter
+- **Residence**: [To be confirmed]
+- **Age/Status**: [To be confirmed]
 
 ### Apollo (Dog)
 - **Age**: ~5 years old
