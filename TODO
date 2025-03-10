@@ -37,6 +37,11 @@ Expect input to be A1, B2, C3, etc. Occasionally use humor to encourage better w
 - `KATIE_SIMPLIFIED_INSTRUCTIONS.md`: Step-by-step Printify guide
 - `KATIE_EMAIL_RESPONSE_TEMPLATE.md`: Templates for Printify questions
 - `KATIE_POSITIVE_EMAIL.md`: Encouraging email template
+- `KATIE_HTML_EMAIL_UPDATE.html`: HTML formatted email update for Katie
+- `KATIE_TEXT_MESSAGE.txt`: Follow-up text message for account creation
+- `UNDERSTANDING_KATIE.md`: Guide to Katie's temperament and communication preferences
+- `NEXT_STEPS.md`: Priority actions and timeline
+- `WINDSHIELD_REPLACEMENT_OPTIONS.md`: Options for Katie's windshield repair
 
 ## ✅ Completed Tasks
 
@@ -45,14 +50,16 @@ Expect input to be A1, B2, C3, etc. Occasionally use humor to encourage better w
 - [x] Prepare email response templates for confusion
 - [x] Create structured to-do lists for Chip and Katie
 - [x] Build positive communication templates
+- [x] Create HTML email update for Katie
+- [x] Send text message to follow up on account creation
 
 ## 📌 Current Tasks
 
-- [ ] Create HTML email update for Katie
 - [ ] Create a Chip to-do list that includes taking a shower (DONE)
 - [ ] Verify Katie truly understands the Printify task
 - [ ] Ensure Katie can access the Printify store URL
 - [ ] Walk Katie through creating her first t-shirt
+- [ ] **URGENT**: Help Katie schedule windshield replacement (see WINDSHIELD_REPLACEMENT_OPTIONS.md)
 
 ## 🔮 Future Tasks
 

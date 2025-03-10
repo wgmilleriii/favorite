@@ -16,6 +16,7 @@
   - Piano Technician
   - Owner of successful piano technician business in Albuquerque
 - **Personal**: Introvert who values communication through writing
+- **Origin**: Grew up in Richmond, Virginia
 
 ### Favorite (Wife)
 - **Relationship**: Married to Chip
@@ -51,6 +52,20 @@
 - **Professional**: Active Marine
 - **Residence**: Utah
 - **Involvement**: Participated in decision about Jim's retirement home placement
+
+## 👨‍👩‍👧‍👦 Extended Family (Chip's Side)
+
+### Chip's Parents
+- **Residence**: Richmond, Virginia
+- **Background**: Chip grew up in Richmond before moving to Albuquerque
+- **Musical Connection**: Father was a clarinetist and mother was an oboist, singer, and pianist
+- **Education**: Parents met in music school at East Carolina
+
+### Chip's Siblings
+- **Number**: 5 siblings
+- **Location**: All reside on the East Coast
+- **Distance**: Significant geographic separation from Chip in Albuquerque
+- **Note**: Extended family gatherings require cross-country travel planning
 
 ## 🏠 Properties
 

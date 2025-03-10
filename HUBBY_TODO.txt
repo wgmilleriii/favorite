@@ -10,9 +10,9 @@ Katie took 45 minutes to acknowledge understanding her Printify assignment. May 
 
 ## URGENT - Katie's Printify Access
 - [x] Create Printify instructions for Katie (COMPLETED - see PRINTIFY_INSTRUCTIONS_FOR_KATIE.md)
-
 - [x] Create detailed t-shirt design guide (COMPLETED - see KATIE_TSHIRT_GUIDE.md)
 - [x] Prepare email response templates for confusion (COMPLETED - see KATIE_EMAIL_RESPONSE_TEMPLATE.md)
+- [x] Send text message to follow up on account creation (COMPLETED - see KATIE_TEXT_MESSAGE.txt)
 - [ ] Verify Katie truly understands the task (given 45-min response time, additional confirmation may be needed)
 - [ ] Ensure Katie can access this specific URL: https://printify.com/app/store/products/1?itemsPerPage=24
 - [ ] Verify Katie can log in successfully (test credentials together if needed)
@@ -38,7 +38,7 @@ Katie took 45 minutes to acknowledge understanding her Printify assignment. May 
 7. Check back after 24 hours to ensure everything is working properly
 
 ## Other Tasks (Lower Priority)
-- [ ] Create HTML email update for Katie
+- [x] Create HTML email update for Katie (COMPLETED - see KATIE_HTML_EMAIL_UPDATE.html)
 - [ ] Update everything in Favorite's project
 - [ ] Make README prettier with more specific memories
 - [ ] Update documentation with our favorite moments
