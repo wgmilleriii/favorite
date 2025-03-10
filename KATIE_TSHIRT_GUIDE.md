@@ -1,5 +1,6 @@
 # T-Shirt Creation Guide for Katie
 
+
 Hi Katie,
 
 This guide will walk you through creating a t-shirt on our Printify store. I've broken it down into simple steps with screenshots to make it as easy as possible.

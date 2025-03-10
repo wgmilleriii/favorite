@@ -1,5 +1,6 @@
 # Anticipated Email Responses for Katie's Printify Questions
 
+
 ## Common Points of Confusion and Ready Responses
 
 ### "I can't log in to Printify"

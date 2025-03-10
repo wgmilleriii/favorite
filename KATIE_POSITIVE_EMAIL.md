@@ -1,5 +1,6 @@
 Subject: Let's Make This Printify Thing Super Easy! 😊
 
+
 Hi Katie,
 
 First off, thanks so much for taking this on! I know Printify can seem complicated at first, but I promise it gets much easier with practice. Let's simplify things:

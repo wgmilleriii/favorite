@@ -1,5 +1,6 @@
 # Simplified Printify Instructions for Katie
 
+
 Katie - Here's what we need you to do (one step at a time):
 
 ## Step 1: Create Account

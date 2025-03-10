@@ -1,5 +1,6 @@
 # Printify Access Guide for Katie
 
+
 Hi Katie,
 
 Here's a comprehensive guide to help you create an account and navigate our Printify store. This document walks you through the initial setup and basic operations you'll need.
