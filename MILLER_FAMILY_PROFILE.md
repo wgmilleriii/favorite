@@ -15,6 +15,7 @@
   - Doctor of Musical Arts
   - Piano Technician
   - Owner of successful piano technician business in Albuquerque
+  - Annual Income: $40,000 from piano technician business
 - **Personal**: Introvert who values communication through writing
 - **Origin**: Grew up in Richmond, Virginia
 
