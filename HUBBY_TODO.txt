@@ -2,21 +2,39 @@
 
 Personal note: She last said "I'm fine!" YAY!
 
+## COMMUNICATION NOTE
+Katie took 45 minutes to acknowledge understanding her Printify assignment. May need extra time/patience for follow-ups. Consider:
+- Using shorter, more direct instructions in future communications
+- Breaking complex tasks into smaller chunks with confirmation checkpoints
+- Following up with brief phone calls for time-sensitive matters
+
 ## URGENT - Katie's Printify Access
 - [x] Create Printify instructions for Katie (COMPLETED - see PRINTIFY_INSTRUCTIONS_FOR_KATIE.md)
-- [ ] Create detailed t-shirt design guide (add to KATIE_TSHIRT_GUIDE.md)
+- [x] Create detailed t-shirt design guide (COMPLETED - see KATIE_TSHIRT_GUIDE.md)
+- [x] Prepare email response templates for confusion (COMPLETED - see KATIE_EMAIL_RESPONSE_TEMPLATE.md)
+- [ ] Verify Katie truly understands the task (given 45-min response time, additional confirmation may be needed)
 - [ ] Ensure Katie can access this specific URL: https://printify.com/app/store/products/1?itemsPerPage=24
 - [ ] Verify Katie can log in successfully (test credentials together if needed)
 - [ ] Walk Katie through creating her first t-shirt (via screen share if possible)
 - [ ] Follow up with Katie after her first attempt to troubleshoot any issues
 
+## ANTICIPATED: Katie's Confusion Response
+- [ ] Expect delayed responses - allocate buffer time in schedule
+- [ ] Watch for email from Katie with confusion about the process
+- [ ] Respond quickly using pre-prepared templates in KATIE_EMAIL_RESPONSE_TEMPLATE.md
+- [ ] Offer a 15-minute screen sharing session if the email response isn't sufficient
+- [ ] Consider recording a brief walkthrough video - may be more effective than written instructions
+- [ ] Send a follow-up email 24 hours after your response to check progress
+- [ ] Schedule a specific time for check-in rather than waiting for her to initiate
+
 ## Specific Steps to Ensure Katie's Access Works
 1. Confirm Katie has created her Printify account
 2. Send Katie the store identifier or direct connection link
-3. Verify she received the correct access level (should be Admin or Manager)
-4. Test that she can access the products page: https://printify.com/app/store/products/1?itemsPerPage=24
-5. Schedule a 15-minute call to walk through t-shirt creation together
-6. Check back after 24 hours to ensure everything is working properly
+3. Ask for explicit confirmation after each step is completed
+4. Verify she received the correct access level (should be Admin or Manager)
+5. Test that she can access the products page: https://printify.com/app/store/products/1?itemsPerPage=24
+6. Schedule a 15-minute call to walk through t-shirt creation together
+7. Check back after 24 hours to ensure everything is working properly
 
 ## Other Tasks (Lower Priority)
 - [ ] Create HTML email update for Katie
@@ -29,4 +47,7 @@ Remember: Favorite appreciates when you complete these tasks promptly! 😊
 ## Notes for Next Steps
 * If Katie has any issues with the Printify dashboard, check browser compatibility
 * Consider recording a quick video walkthrough as backup
-* Keep login credentials in a secure shared location 
+* Keep login credentials in a secure shared location
+* Be patient - most people need 2-3 attempts before they're comfortable with Printify
+* For Katie specifically: factor in significantly longer response/processing times than average
+* Phone calls might be more effective than emails for complex explanations 
