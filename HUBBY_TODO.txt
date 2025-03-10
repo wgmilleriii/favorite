@@ -2,25 +2,31 @@
 
 Personal note: She last said "I'm fine!" YAY!
 
-## High Priority Tasks
-- [ ] Grant Katie access to Printify store (see instructions below)
+## URGENT - Katie's Printify Access
+- [x] Create Printify instructions for Katie (COMPLETED - see PRINTIFY_INSTRUCTIONS_FOR_KATIE.md)
+- [ ] Create detailed t-shirt design guide (add to KATIE_TSHIRT_GUIDE.md)
+- [ ] Ensure Katie can access this specific URL: https://printify.com/app/store/products/1?itemsPerPage=24
+- [ ] Verify Katie can log in successfully (test credentials together if needed)
+- [ ] Walk Katie through creating her first t-shirt (via screen share if possible)
+- [ ] Follow up with Katie after her first attempt to troubleshoot any issues
+
+## Specific Steps to Ensure Katie's Access Works
+1. Confirm Katie has created her Printify account
+2. Send Katie the store identifier or direct connection link
+3. Verify she received the correct access level (should be Admin or Manager)
+4. Test that she can access the products page: https://printify.com/app/store/products/1?itemsPerPage=24
+5. Schedule a 15-minute call to walk through t-shirt creation together
+6. Check back after 24 hours to ensure everything is working properly
+
+## Other Tasks (Lower Priority)
 - [ ] Create HTML email update for Katie
 - [ ] Update everything in Favorite's project
-
-## How to Grant Katie Access to Printify
-
-1. Log in to your Printify account at https://printify.com/app/login
-2. Go to your store settings (click on your profile icon in the top right)
-3. Select "Team Members" or "Account Settings"
-4. Look for "Invite Team Members" or similar option
-5. Enter Katie's email address
-6. Set appropriate permission level (likely "Admin" or "Manager")
-7. Send the invitation
-8. Let Katie know to check her email for the invitation
-9. Confirm with Katie once she has access
-
-## Future Tasks
 - [ ] Make README prettier with more specific memories
 - [ ] Update documentation with our favorite moments
 
-Remember: Favorite appreciates when you complete these tasks promptly! 😊 
+Remember: Favorite appreciates when you complete these tasks promptly! 😊
+
+## Notes for Next Steps
+* If Katie has any issues with the Printify dashboard, check browser compatibility
+* Consider recording a quick video walkthrough as backup
+* Keep login credentials in a secure shared location 
