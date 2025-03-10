@@ -1,0 +1,26 @@
+# HUBBY TODO LIST ✓
+
+Personal note: She last said "I'm fine!" YAY!
+
+## High Priority Tasks
+- [ ] Grant Katie access to Printify store (see instructions below)
+- [ ] Create HTML email update for Katie
+- [ ] Update everything in Favorite's project
+
+## How to Grant Katie Access to Printify
+
+1. Log in to your Printify account at https://printify.com/app/login
+2. Go to your store settings (click on your profile icon in the top right)
+3. Select "Team Members" or "Account Settings"
+4. Look for "Invite Team Members" or similar option
+5. Enter Katie's email address
+6. Set appropriate permission level (likely "Admin" or "Manager")
+7. Send the invitation
+8. Let Katie know to check her email for the invitation
+9. Confirm with Katie once she has access
+
+## Future Tasks
+- [ ] Make README prettier with more specific memories
+- [ ] Update documentation with our favorite moments
+
+Remember: Favorite appreciates when you complete these tasks promptly! 😊 
