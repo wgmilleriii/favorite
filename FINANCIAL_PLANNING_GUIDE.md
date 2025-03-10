@@ -6,6 +6,19 @@
   <img src="https://img.shields.io/badge/Last_Updated-March_10_2024-green" alt="Last Updated: March 10, 2024">
 </div>
 
+## 💵 Current Income
+
+### Primary Income Sources
+- **Chip's Piano Technician Business**: $40,000 annually
+- **Katie's Part-time Work at Talbots**: [Amount to be confirmed]
+- **Potential Income**: Katie's possible position at Williams Sonoma
+
+### Income Management
+- [ ] Set up separate business account for piano technician income
+- [ ] Track business expenses separately for tax purposes
+- [ ] Evaluate quarterly income patterns for business seasonality
+- [ ] Plan for tax withholdings (self-employment taxes)
+
 ## 📊 Budget Optimization
 
 ### Monthly Budget Framework
