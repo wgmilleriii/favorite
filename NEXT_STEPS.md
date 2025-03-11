@@ -27,6 +27,14 @@
 - Coordinate with Jack about shared decision-making
 - Begin discussions about the Corrales property future
 
+### Calendar Integration
+- **NEW: Gazelle Calendar Integration**
+  - Chip's piano tuning calendar URL located: https://gazelleapp.io/calendars/cal_BM7FwKln8bo6rZpqgShFT7CD0pPchDfS3mZ25UvCDxcx.ics
+  - Add this calendar to Google Calendar
+  - Share with Favorite for better family scheduling
+  - Note Denver trip scheduled for Jan 30 - Feb 7, 2025
+  - Consider how to handle regular Lucas appointments in family planning
+
 ## 📋 Upcoming Tasks
 
 ### Katie's Support
@@ -49,16 +57,19 @@
 - Replace Katie's windshield
 - Follow up on Printify account creation
 - Initial calls to retirement facilities
+- **NEW: Add Gazelle piano calendar to Google Calendar**
 
 ### Next Week
 - Begin serious discussions about Corrales property
 - Schedule video calls with East Coast family
 - Apollo's vet visit
+- **NEW: Ensure all piano appointments are visible to Favorite**
 
 ### This Month
 - Make decision on retirement facility for Jim
 - Help Katie prepare for transition to new job if interview successful
 - Create communication plan for coordinating with Katie's schedule
+- **NEW: Begin planning around Denver trip (Jan 30 - Feb 7, 2025)**
 
 ---
 

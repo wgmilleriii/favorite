@@ -17,6 +17,11 @@
   - Piano Technician
   - Owner of successful piano technician business in Albuquerque
   - Annual Income: $40,000 from piano technician business
+  - Clients include owners of Baldwin and Steinway grand pianos
+  - Uses Gazelle app for scheduling piano tuning appointments
+  - Services include standard tunings ($180) and piano restoration
+  - Regular client named Lucas (recurring appointments)
+  - Plans for a Denver business trip (Jan 30 - Feb 7, 2025)
 - **Personal**: Introvert who values communication through writing
 - **Origin**: Grew up in Richmond, Virginia
 - **Diet**: 

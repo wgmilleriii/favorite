@@ -1,0 +1,21 @@
+# Apollo's Important Rules About What Not To Save!
+
+# Calendar files (might contain private appointments!)
+*.ics
+*.ical
+*calendar*.txt
+
+# Private information
+*private*
+*secret*
+*password*
+*credentials*
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Apollo's personal files
+*treats*
+*walkies*
+*belly_rubs* 
