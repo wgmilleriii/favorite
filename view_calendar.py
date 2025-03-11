@@ -30,8 +30,6 @@ def get_tomorrow_events(calendar):
     """Extract tomorrow's events from calendar"""
     # Calculate tomorrow's date
     tomorrow = datetime.now().date() + timedelta(days=1)
-    tomorrow_start = datetime.combine(tomorrow, datetime.min.time()).replace(tzinfo=pytz.UTC)
-    tomorrow_end = datetime.combine(tomorrow, datetime.max.time()).replace(tzinfo=pytz.UTC)
     
     events = []
     
@@ -47,7 +45,7 @@ def get_tomorrow_events(calendar):
                 event_date = start
                 
             # Check if event is tomorrow
-            if event_date == tomorrow.date():
+            if event_date == tomorrow:
                 # Extract event details
                 summary = str(component.get('summary', 'No Title'))
                 

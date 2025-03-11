@@ -36,6 +36,8 @@
   - Provide step-by-step walkthrough
   - Document process with screenshots if needed
 - 4:00 PM: Piano business administration
+- 4:30 PM: Grocery shopping for Chinese dinner ingredients
+  - Follow CHINESE_FOOD_INGREDIENTS.md list
 
 ### Katie's Schedule
 - 12:00 PM: Lunch
@@ -49,14 +51,16 @@
 ## 🌆 Evening Schedule (5:00 PM - 10:00 PM)
 
 ### Shared Activities
-- 5:00 PM: Dinner preparation (Katie)
-- 6:00 PM: Family dinner
-- 7:00 PM: Calendar review session
+- 5:00 PM: Chinese dinner preparation
+  - Chip and Katie cook together
+  - Reference CHINESE_FOOD_INGREDIENTS.md for recipe ideas
+- 6:30 PM: Family dinner
+- 7:30 PM: Calendar review session
   - Review newly integrated calendars
   - Discuss scheduling needs
   - Identify and resolve potential conflicts
-- 8:00 PM: Movie night
-- 10:00 PM: Evening routine
+- 8:30 PM: Movie night
+- 10:30 PM: Evening routine
 
 ## ✅ Critical Tasks - March 12
 
@@ -72,6 +76,10 @@
 ### Jim's Care
 - [ ] Identify top 3 retirement facility options
 - [ ] Obtain information on VA benefits for retired Lieutenant Colonel
+
+### Meal Planning
+- [ ] Purchase ingredients for Chinese dinner
+- [ ] Prepare chicken-based Chinese meal together
 
 ## 📋 Evening Discussion Topics
 
