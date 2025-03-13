@@ -31,6 +31,18 @@ Hello there. This is where the Miller family keeps their documentation.
 - Chip's clock collection
 - Calendar integration
 
+### Directory Structure
+- `docs/players/` - Player-specific documentation (activities, interests, skills)
+  - `apollo/` - Apollo's files
+  - `katie/` - Katie's files
+  - `chip/` - Chip's files
+- `docs/learning_styles/` - Communication and learning style documents
+  - `apollo/` - Apollo's communication style
+  - `katie/` - Katie's visual learning approach
+  - `chip/` - Chip's introvert communication
+- `scripts/` - Scripts for automation (calendar tools, etc.)
+- `notes/` - Text files for quick notes and reminders
+
 ---
 
 *Simple access to complex information. Last updated March 13, 2024.*
