@@ -40,10 +40,32 @@
   - Regular cleaning schedules
   - Structured daily routines
   - Detailed documentation habits
+- **Joy Sources**: 
+  - Clean, organized spaces
+  - Written communication
+  - Thoughtful gestures from family
+  - Seeing tasks completed properly
+  - Family members supporting each other
+  - Peaceful home environment
+  - Having time for piano practice
+  - Documentation and planning
+  - Clear surfaces and pathways
+  - Structured routines
 
 ### Favorite (Wife)
 - **Relationship**: Married to Chip
 - **Dynamic**: Extrovert (complementary to Chip's introversion)
+- **Contributions**:
+  - Maintains home organization
+  - Walks Apollo regularly
+  - Keeps kitchen organized
+  - Supports family wellness
+  - Brings energy to family life
+  - Handles cardboard processing
+  - Creates visual organization systems
+  - Maintains clear spaces
+  - Coordinates family activities
+  - Balances multiple responsibilities
 
 ### Megan (Daughter)
 - **Relationship**: Chip's daughter
@@ -59,6 +81,17 @@
 - **Age**: ~5 years old
 - **Breed**: Collie/Black Lab/Pitbull mix
 - **Adoption**: Adopted approximately 4 months ago (November/December 2023)
+- **Happiness Factors**:
+  - Regular walks with Katie
+  - Clean floors for treat finding
+  - Family time supervision
+  - Strategic napping locations
+  - Squirrel monitoring duties
+  - House guardian responsibilities
+  - Clear pathways for zoomies
+  - Family dinner monitoring
+  - Organized toy basket
+  - Being included in family activities
 
 ## 👨‍👩‍👧‍👦 Extended Family (Katie's Side)
 

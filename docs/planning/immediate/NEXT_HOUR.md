@@ -1,5 +1,10 @@
 # Next Hour: Evening Routine
 
+## Family Happiness Focus
+- **Chip**: Coming home to clean, organized spaces
+- **Katie**: Supporting family through active contributions
+- **Apollo**: Maintaining important supervision duties
+
 ## Chip's Tasks (0-60 minutes)
 - Take a shower (15-25 minutes)
 - Make an adult beverage (5 minutes)
@@ -7,20 +12,21 @@
 - Prepare something to eat (15 minutes)
 
 ## Katie's Activities
-- Continue with current projects
-- Potential opportunity to set a 1-hour timer if desired (per custom instructions)
-- Available for coordination on dinner plans
+- Continue supporting family wellness
+- Maintain organized spaces
+- Available for coordination as needed
 
 ## Apollo's Schedule
-- Supervised nap
-- Occasional check-ins on humans
-- Strategic positioning for food opportunities
+- Monitor family activities
+- Strategic placement for supervision
+- Maintain house guardian duties
+- Keep watch for squirrels
 
 ## Expected Outcomes
-- Chip will have completed personal hygiene routine
-- Living room will be partially or fully cleaned
-- Both hydration and nutrition needs will be addressed
-- Evening relaxation can commence
+- Clean and organized spaces maintained
+- Family members feeling appreciated
+- Peaceful evening environment created
+- Routines properly followed
 
 ## Key Considerations
 - Avoid any tasks involving cardboard or Amazon packages
