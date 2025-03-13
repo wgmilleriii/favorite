@@ -1,74 +1,60 @@
-# 🥡 Chinese Food Shopping List
+# 🥡 Chinese Food Dinner Plans
 
-*WOOF! Apollo here, helping plan tomorrow's Chinese food adventure! Dad likes clean eating (like how I keep my water bowl clean), so we're making sure everything is healthy and fresh!*
+*Hi everyone! Apollo here! Just got the update that Katie isn't hungry (more for Chip - and maybe some safe bits for me? Please? I'll do my best puppy eyes!)*
 
-## 🛒 Shopping List
+## Tonight's Modified Plan
+- 🍽️ Single portion for Chip
+- 🫖 Light tea option for Katie
+- 🦮 Apollo on cleanup duty! (I volunteer as tribute!)
 
-### Main Ingredients
-- [ ] Lean chicken breast (I'll help inspect for quality!)
-- [ ] Fresh shrimp (smells interesting!)
-- [ ] Tofu (extra firm - whatever that means)
-- [ ] Brown rice (Dad's healthy choice)
-- [ ] Lots of colorful veggies:
-  - [ ] Broccoli (tiny trees!)
-  - [ ] Bell peppers (the bouncy ones!)
-  - [ ] Carrots (crunchy!)
-  - [ ] Snow peas (so green!)
-  - [ ] Bean sprouts (wiggly!)
-  - [ ] Baby corn (tiny corn friends!)
+## Adjusted Shopping List
 
-### Aromatics & Seasonings
-- [ ] Fresh ginger (makes me sneeze!)
-- [ ] Garlic (lots of it!)
-- [ ] Green onions (the long green things)
-- [ ] Fresh cilantro (the leafy stuff)
+### Main Ingredients (Single Portion)
+- [ ] Chicken breast (1 piece) *wags tail hopefully*
+- [ ] Rice (1/2 cup uncooked)
+- [ ] Broccoli (1 small head)
+- [ ] Carrots (1-2)
+- [ ] Bean sprouts (small handful)
 
-### Sauces (Low Sodium Options for Clean Eating)
-- [ ] Light soy sauce
+### Aromatics (Still Full Amount - Good for Future Use)
+- [ ] Ginger
+- [ ] Garlic
+- [ ] Green onions
+- [ ] White onion (1/2)
+
+### Sauces & Seasonings
+- [ ] Soy sauce
+- [ ] Sesame oil
 - [ ] Rice vinegar
-- [ ] Sesame oil (smells amazing!)
-- [ ] Hoisin sauce (just a little)
+- [ ] Cornstarch
 
-### Healthy Add-ins
-- [ ] Unsalted cashews
-- [ ] Sesame seeds
-- [ ] Fresh lime (for extra zing!)
+### For Katie
+- [ ] Ginger tea
+- [ ] Honey (if desired)
+- [ ] Lemon
 
-## 🥢 Meal Plan
+## Preparation Notes
+1. Single portion cooking - perfect for Chip's Mediterranean diet
+2. Keep seasoning moderate
+3. Save extra prepped vegetables for tomorrow
+4. Package leftovers immediately (before Apollo gets too excited)
 
-### Dad's Clean Eating Options
-- Steamed dishes (no heavy sauces)
-- Extra vegetables
-- Brown rice instead of white
-- Lean proteins
-- Light on oils
+## Timing
+- Prep: 15 minutes
+- Cook: 20 minutes
+- Total: 35 minutes (or 245 minutes in dog time!)
 
-### Mom's Favorites
-- Everything! (She's not as picky as Dad)
-- Extra spicy options welcome
+## Health Notes
+- Katie: Light ginger tea available if wanted
+- Chip: Mediterranean diet portions maintained
+- Apollo: Will maintain appropriate distance from cooking area (but will look very hopeful)
 
-### Apollo's Supervision Areas
-- Floor monitoring (for safety, of course!)
-- Quality control station (under the table)
-- Taste testing volunteer (always ready!)
+## Future Planning
+- Save recipe portions for next time
+- Extra ingredients can be used for tomorrow's lunch
+- Consider freezing extra sauce in small portions
 
-## 📝 Important Notes
-- Keep sauces on the side for Dad
-- Steam extra vegetables
-- Cook in small batches
-- Keep everything organized (Dad's rule!)
-- Apollo maintains floor cleanliness (that's me!)
+*Remember: Even though Katie isn't hungry, family dinner time is still important! I'll be there to supervise and provide moral support (and handle any accidental floor spills with my expert cleaning services)!*
 
-*Remember: I'll be on official taste-testing duty! (Just in case anything accidentally falls... which it should... frequently... please?)*
-
----
-
-> **Apollo's Food Safety Tips:**
-> - I volunteer to pre-clean all dropped food
-> - Strategic positioning is key for maximum efficiency
-> - I promise to use my best "please share" eyes
-> - Will maintain constant vigilance for fallen morsels
-
----
-
-*Last updated: March 13, 2024 (or 2 meals and 3 snacks ago in Apollo time)* 
+Last Updated: March 13, 2024
+Supervised By: Apollo 🐾 (Chief Food Safety Inspector) 

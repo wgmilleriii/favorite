@@ -52,7 +52,10 @@
 ## Evening Plans
 
 ### Family Activities
-- Chinese food dinner (see [CHINESE_FOOD_INGREDIENTS.md](CHINESE_FOOD_INGREDIENTS.md))
+- Modified dinner plans (see [CHINESE_FOOD_INGREDIENTS.md](CHINESE_FOOD_INGREDIENTS.md)):
+  - Single portion Chinese food for Chip
+  - Ginger tea option for Katie
+  - Family time maintained despite lighter meal
 - Complete Evening Quick Block (30 min):
   - Day summary
   - Next day preparation
@@ -61,6 +64,8 @@
 - Calendar integration and planning time (during family time)
 - Discussion about Jim's care transition
 - Potential movie night (see [APOLLO_MOVIE_NIGHT_SUGGESTIONS.md](APOLLO_MOVIE_NIGHT_SUGGESTIONS.md))
+  - Consider "Chef" from backup options (but maybe save for when Katie is hungry!)
+  - "The Weatherman" might be better tonight
 
 ### Evening Tasks
 - Chip: Update documentation based on day's events
