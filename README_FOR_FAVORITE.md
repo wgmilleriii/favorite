@@ -22,12 +22,12 @@ I'm excited about all our upcoming adventures:
 
 Thank you for being my partner in everything, for understanding my need to practice, and for loving me even when I get lost in piano tuning details. You make every day brighter just by being you.
 
-I'd say I'll see you shortly, but there appears to be a rather distinguished family of raccoons holding what I can only assume is a formal dinner party in the middle of the road. Terribly inconsiderate of them not to have sent an invitation, really. Suppose I'll have to crash their gathering... quite literally.
+I'd pop round straightaway, darling, but I appear to be detained by what seems to be a rather posh family of raccoons hosting their annual spring cotillion in the middle of the road. They're wearing top hats and everything - quite committed to the whole affair. Dreadfully rude of me to disturb their waltz, but I'm afraid my car simply isn't equipped with the proper formal attire for such an occasion. Terribly sorry, old chaps.
 
-With all my love (and sincere apologies to the raccoon aristocracy),
+With all my love (and a formal RSVP to the raccoons for next year's ball),
 Chip
 
 P.S. Apollo wanted to add: "FAVORITE IS THE BEST HUMAN (after Chip, but don't tell him I said that). She gives the SECOND-BEST belly rubs and always knows the PERFECT spot to scratch! Plus, she understands that floor food is clearly meant for dogs - so wise!"
 
 ---
-*Last Updated: March 13, 2024* 
+*Last Updated: March 13, 2024*
