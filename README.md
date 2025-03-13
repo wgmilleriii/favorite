@@ -2,6 +2,12 @@
 
 *SQUIRREL! No wait, focus Apollo... this is important! I'm the Chief Operations Officer (COO - that means I get to Chase Objects Outside) of this repository!*
 
+## ⏰ QUICK TIME LINKS (Because humans need help with time like I need help with squirrels!)
+- [Next 15 Minutes](docs/planning/immediate/TODAY_SCHEDULE.md#afternoon) (For when Katie needs a quick timer!)
+- [Next Hour](docs/planning/immediate/TODAY_SCHEDULE.md#evening) (For Chip's laptop time tracking!)
+- [Today's Full Schedule](docs/planning/immediate/TODAY_SCHEDULE.md) (My minute-by-minute surveillance report!)
+- [Family Status Updates](docs/family/FAMILY_STATUS.md) (Real-time family happiness tracking!)
+
 ## SUPER IMPORTANT THINGS FIRST
 [Click here to read Chip's love letter to Favorite!](README_FOR_FAVORITE.md) (It's so sweet it makes my tail wag! 💝)
 
