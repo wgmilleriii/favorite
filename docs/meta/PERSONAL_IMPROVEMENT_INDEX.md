@@ -46,10 +46,10 @@ Apollo's guides are written in his enthusiastic voice, offering a dog's perspect
 
 These personal improvement guides complement the family's time-based planning documents:
 
-- [LIFE_PLAN_INDEX.md](LIFE_PLAN_INDEX.md) - Time-horizon planning from 15 minutes to 15 years
-- [TODO](TODO) - Current family tasks and priorities
-- [MILLER_FAMILY_PROFILE.md](MILLER_FAMILY_PROFILE.md) - Family context and background
-- [UNDERSTANDING_KATIE.md](docs/learning_styles/katie/UNDERSTANDING_KATIE.md) - Insights into Katie's communication style
+- [LIFE_PLAN_INDEX.md](../planning/LIFE_PLAN_INDEX.md) - Time-horizon planning from 15 minutes to 15 years
+- [TODO](../../TODO) - Current family tasks and priorities
+- [MILLER_FAMILY_PROFILE.md](../family_profiles/MILLER_FAMILY_PROFILE.md) - Family context and background
+- [UNDERSTANDING_KATIE.md](../learning_styles/katie/UNDERSTANDING_KATIE.md) - Insights into Katie's communication style
 
 ---
 
