@@ -2,12 +2,17 @@
 
 ## Morning Schedule
 
-### Chip
-- Morning self-care routine
-- Piano practice (minimum 1 hour)
-- Check email and respond to urgent messages (within 1-hour laptop limit)
-- Review piano tuning appointments
-- ⭐ NEW: Get sizes and address for Jack and Barbara Mills' pajamas
+### Chip (See [TIME_BLOCKS.md](../players/chip/TIME_BLOCKS.md) for detailed timing)
+- Complete Morning Quick Block (30 min):
+  - Morning self-care routine
+  - Review day's schedule
+  - Check urgent messages
+  - Prepare practice materials
+- Piano Practice Block (1 hour minimum):
+  - Technical exercises
+  - Current repertoire
+  - New material
+- Get sizes and address for Jack and Barbara Mills' pajamas (during family check-in)
 
 ### Katie
 - Prepare for Williams Sonoma interview
@@ -24,9 +29,15 @@
 
 ### Chip
 - Piano client appointments (check calendar for specific times)
-- Lunch break
-- Check in with Katie at least once during the day
-- ⭐ NEW: Order pajamas for Jack and Barbara (if sizes obtained, use remaining laptop time)
+- Complete Midday Quick Block (30 min):
+  - Client preparation
+  - Equipment checks
+  - Family check-in
+  - Next appointment review
+- Laptop Block (if not used in morning):
+  - Email management
+  - Order pajamas
+  - Documentation updates
 
 ### Katie
 - Work on visual design projects
@@ -42,10 +53,14 @@
 
 ### Family Activities
 - Chinese food dinner (see [CHINESE_FOOD_INGREDIENTS.md](CHINESE_FOOD_INGREDIENTS.md))
-- Calendar integration and planning time
+- Complete Evening Quick Block (30 min):
+  - Day summary
+  - Next day preparation
+  - Family time
+  - Write note for Jack & Barbara
+- Calendar integration and planning time (during family time)
 - Discussion about Jim's care transition
 - Potential movie night (see [APOLLO_MOVIE_NIGHT_SUGGESTIONS.md](APOLLO_MOVIE_NIGHT_SUGGESTIONS.md))
-- ⭐ NEW: Write heartfelt note for Jack and Barbara (Apollo will supervise)
 
 ### Evening Tasks
 - Chip: Update documentation based on day's events
