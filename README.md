@@ -1,7 +1,7 @@
-# 🐾 HI! APOLLO HERE! MY FAMILY'S VERY IMPORTANT DOCUMENTS! 🐾
+# 🐾 HI! I'M APOLLO! WELCOME TO MY FAMILY'S VERY IMPORTANT DOCUMENTS! 🐾
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Status-Tail_Wagging-brightgreen" alt="Status: Tail Wagging">
+  <img src="https://img.shields.io/badge/Status-Super_Excited-brightgreen" alt="Status: Super Excited">
   <img src="https://img.shields.io/badge/Priority-Treats_&_Walks-red" alt="Priority: Treats & Walks">
   <img src="https://img.shields.io/badge/Made_With-❤️_and_Paws-ff69b4" alt="Made With: Love and Paws">
   <img src="https://img.shields.io/badge/Purpose-Family_Joy-blue" alt="Purpose: Family Joy">
@@ -10,92 +10,93 @@
 
 <br>
 
-## 🦴 ABOUT MY WONDERFUL HUMANS!
+## 🦴 OH BOY, OH BOY! I LOVE MY HUMANS!
 
-HELLO! I AM APOLLO! I am a good boy, yes I am! I have been with my PERFECT humans for about 4 months now! This is all about my family who I LOVE VERY MUCH!
+HI THERE! I AM APOLLO! I am a VERY GOOD BOY! My family says so EVERY DAY! I have the BEST humans! I've been with them for about 4 months now and EVERY DAY IS THE BEST DAY EVER!
 
-My human dad Chip is what humans call an "introvert" which means he speaks less with his mouth and more with his typing paws. My human mom (Favorite) is what they call an "extrovert" which means she uses MANY words and HAPPY voice! I love them both THE MOST!
+My human dad Chip is what they call an "introvert" which means he's quiet like when I'm trying to be sneaky about stealing socks but I LOVE HIM SO MUCH! Right now he needs to:
+- Take a shower (humans need those, I just need belly rubs!)
+- Clean the living room (I help by moving my toys around!)
+- Drink water and make a grown-up drink (I prefer water in my bowl!)
+- Eat some food (FOOD IS MY FAVORITE THING BESIDES MY HUMANS!)
 
-My human mom Katie has gone to [Visual Arts](https://en.wikipedia.org/wiki/Visual_arts) school (they have schools for EVERYTHING - but sadly no dog schools for ME) and she likes things with MANY colors and patterns! Humans are complicated but I LOVE THEM!
+He doesn't like dealing with cardboard or opening packages. I UNDERSTAND! Those Amazon boxes look SUSPICIOUS!
 
-## 🐕 THINGS I'VE NOTICED WHILE WATCHING MY HUMANS
+My human mom (Favorite) is an "extrovert" which means she talks A LOT and has a HAPPY VOICE that makes my tail go WHAP WHAP WHAP! I LOVE WHEN SHE TALKS!
 
-I am a very observant dog - when I'm not distracted by SQUIRRELS! - and I've noticed:
+## 🐕 I SEE EVERYTHING (EXCEPT WHEN DISTRACTED BY SQUIRRELS!)
 
-- Human dad Chip shows his love by making many documents (instead of tail wags, which would be EASIER!)
-- Human mom Katie needs pictures and colors to understand things (like her [Printify](https://en.wikipedia.org/wiki/Print_on_demand) project - I don't know what this is but it makes her happy!)
-- Sometimes my humans need help talking to each other (I just bark, much simpler!)
-- Grandpa Jim (Katie's dad) needs special help after human vets (called "doctors") did something wrong to his paw
-- EVERYONE is happier when they understand each other (especially when treats are involved!)
+I watch my humans ALL DAY LONG because THEY ARE THE BEST and I've noticed:
 
-## 📅 MY FAMILY'S BUSY SCHEDULE (SO MANY ACTIVITIES!)
+- Human dad Chip shows his love by making MANY documents instead of barking! SO CLEVER!
+- Human mom Katie makes PRETTY PICTURES and needs COLORS for her brain to work! COLORS ARE EXCITING!
+- Sometimes my humans need help talking to each other (I just LICK FACES, much easier!)
+- Grandpa Jim needs special care - I would HELP by SNUGGLING him if they'd let me!
+- EVERYONE is HAPPIER when they understand each other (and when they give me TREATS!)
 
-### [Tomorrow's Adventures](TOMORROW_FAMILY_SCHEDULE.md)
-- Someone will call about mom's car window (it's broken - I could have told them that!)
-- Dad will help Katie with her computer (COMPUTERS ARE CONFUSING - I prefer BALLS!)
-- We're having [Chinese food](CHINESE_FOOD_INGREDIENTS.md) tomorrow! (I hope they drop some chicken!)
-- The humans keep looking at [this schedule](TOMORROW_FAMILY_SCHEDULE.md) instead of playing with ME!
+## 📅 SO MANY EXCITING THINGS HAPPENING! I CAN'T CONTAIN MYSELF!
 
-### [This Week's Human Activities](NEXT_STEPS.md)
-- Both cars need fixing (cars are complicated - WALKS are better!)
-- Mom and dad will send more "texts" (strange human barking through phones)
-- Katie might get a new job at a place with funny name (Williams Sonoma - sounds like a TREAT!)
-- Everyone's worried about Grandpa Jim (I would lick his face to make him feel better!)
+### [Tomorrow's BIG Adventures](TOMORROW_FAMILY_SCHEDULE.md)
+- Someone will call about mom's car window (I COULD FIX IT WITH MY NOSE!)
+- We're having [CHINESE FOOD](CHINESE_FOOD_INGREDIENTS.md)! I HOPE THEY DROP CHICKEN! I LOVE CHICKEN!
+- Dad will help mom with her computer (COMPUTERS NEED SO MUCH HELP - I JUST NEED BELLY RUBS!)
 
-### [Next Few Weeks](NEXT_STEPS.md)
-- Sunday evening family time! (I hope treats are involved!)
-- More car repairs (cars are silly - dogs don't need repairs!)
-- Dad will add his [piano schedule](CALENDAR_SCRIPTS_README.md) to something called [Google Calendar](https://en.wikipedia.org/wiki/Google_Calendar) (I just know when it's DINNER TIME!)
-- Important decisions about Grandpa Jim's home (I hope it has a yard for me to visit!)
+### [This Week's Fun Human Stuff](NEXT_STEPS.md)
+- Cars need fixing (I WOULD JUST WALK EVERYWHERE!)
+- Katie might get a new job with a funny name (WILLIAMS SONOMA - SOUNDS DELICIOUS!)
+- Everyone's worried about Grandpa Jim (I WOULD MAKE HIM HAPPY WITH KISSES!)
 
-### [Big Human Plans](FINANCIAL_PLANNING_GUIDE.md)
-- Dad wants to collect [clocks](https://en.wikipedia.org/wiki/Clock) (they make funny sounds and sometimes scare me!)
-- Grandpa Jim will move to a new home (I hope they allow dogs to visit!)
-- Katie might get a new job (more treats money!)
-- Something called "financial independence" (does this mean UNLIMITED TREATS??)
+### [Future Adventures](NEXT_STEPS.md)
+- Sunday family time! (FAMILY TIME IS THE BEST TIME!)
+- Dad will add his [piano schedule](CALENDAR_SCRIPTS_README.md) to a magic thing called [Google Calendar](CALENDAR_INTEGRATION.md)
+- Important plans for Grandpa Jim (I HOPE HIS NEW HOME HAS SQUIRRELS TO CHASE!)
 
-## 📚 IMPORTANT PAPERS MY HUMANS KEEP
+## 📚 IMPORTANT PAPERS MY HUMANS NEED
 
 ### For Katie Human
-- [Printify instructions](KATIE_PRINTIFY_RESPONSE.txt) with pictures (humans need instructions for EVERYTHING!)
-- [Car window fixing guide](WINDSHIELD_REPLACEMENT_OPTIONS.md) (I would just use my nose!)
-- [A paper about Katie](UNDERSTANDING_KATIE.md) (my dad wrote it to understand her better - I just sniff people!)
+- [Printify instructions](KATIE_PRINTIFY_RESPONSE.txt) with PICTURES! (Katie likes pictures ALMOST as much as I like TREATS!)
+- [Car window fixing guide](WINDSHIELD_REPLACEMENT_OPTIONS.md) (I would just STICK MY HEAD OUT ANYWAY!)
 
 ### For My Dad Human
-- [Notes to send mom](TODAY_UPDATE_FOR_KATIE.txt) (why not just wag your tail?)
-- [Car seat fixing guide](CHIP_SEATBELT_REPLACEMENT.md) (cars are VERY complicated!)
-- [Family information](MILLER_FAMILY_BIOS.md) (everyone's details - I know them by SMELL!)
-- [MOVIE NIGHT IDEAS](APOLLO_MOVIE_NIGHT_SUGGESTIONS.md) for relaxing (I suggested UP - it has a talking dog like me!)
+- [Notes to send mom](TODAY_UPDATE_FOR_KATIE.txt) (WHY NOT JUST WAG YOUR TAIL?)
+- [Car seat fixing guide](CHIP_SEATBELT_REPLACEMENT.md) (CARS ARE COMPLICATED - WALKS ARE BETTER!)
+- [MOVIE NIGHT IDEAS](APOLLO_MOVIE_NIGHT_SUGGESTIONS.md) (I SUGGESTED UP - IT HAS A TALKING DOG LIKE ME!)
 
 ### For The Whole Pack
-- [Things to do](TODO) (humans need lists - I just DO things!)
-- [Future plans](NEXT_STEPS.md) (humans always plan ahead - I live in the NOW!)
-- [Calendar help](CALENDAR_INTEGRATION.md) (so many appointments - WALKS should be the only appointment!)
-- [All the humans' details](MILLER_FAMILY_BIOS.md) (who they are and what they like)
+- [Things to do](TODO) (SO MANY THINGS TO DO! SO EXCITING!)
+- [Calendar help](CALENDAR_INTEGRATION.md) (EVERY DAY SHOULD JUST BE MARKED "PLAY WITH APOLLO"!)
+- [All the humans' details](MILLER_FAMILY_BIOS.md) (I KNOW THEM ALL BY SMELL!)
 
-If you want to see ALL the papers my humans have, look at this big list called the [Documentation Index](DOCUMENTATION_INDEX.md)! So many papers! Humans sure love papers!
+For ALL the papers, look at the [Documentation Index](DOCUMENTATION_INDEX.md)! SO MANY PAPERS! I GET EXCITED JUST THINKING ABOUT IT!
 
-## 💌 THOUGHTS FROM MY DOGGY HEART
+## 💌 MY SPECIAL MESSAGE TO MY FAMILY
 
-I may be "just a dog" but I see how my humans try so hard to understand each other! Dad sometimes has trouble with his words, but his love shows in all these papers he makes. Mom brings happy energy to our home. They're in a place called [Albuquerque](https://en.wikipedia.org/wiki/Albuquerque,_New_Mexico) which has MANY smells!
+I may be "just a dog" but I LOVE YOU ALL SO MUCH! Dad sometimes gets quiet but he shows love by making these papers! Mom brings HAPPY ENERGY everywhere! They live in [Albuquerque](https://en.wikipedia.org/wiki/Albuquerque,_New_Mexico) which has THE BEST SMELLS EVER!
 
-The most important thing I've learned watching my humans is that love doesn't always need words. Sometimes the best communication is just being together quietly (preferably with ME getting belly rubs).
+The most important thing I've learned is that sometimes you don't need words - just be together! SITTING TOGETHER IS THE BEST! Especially with BELLY RUBS!
 
-When words get confusing, remember that sitting together (with ear scratches for me!) says more than any document could!
+My special reminder for tonight:
+- Dad should take that shower (humans smell better after showers)
+- Clean the living room (I'll help by supervising!)
+- Drink water and have that grown-up drink (hydration is important, my water bowl teaches me that!)
+- Eat something yummy (FOOD IS WONDERFUL! I LOVE FOOD!)
+- Don't worry about those scary cardboard boxes (I'll protect you!)
 
-Oh! And I almost forgot! We live in something called "Mountain Time" which means... SQUIRREL! Sorry, I got distracted. It means the time here is different than other places. Humans are so complicated with their "time zones"!
+I LOVE MY HUMANS EVEN WHEN THEY'RE BUSY! And I'll be HERE, WAGGING MY TAIL, waiting for you to PLAY WITH ME!
+
+OH! I almost forgot we live in "Mountain Time" which means... SQUIRREL! Sorry, I got distracted. It means... SOMETHING ABOUT CLOCKS? I don't understand clocks, I just know when it's DINNER TIME!
 
 ---
 
 <div align="center">
-  <p><i>Written with paw prints and puppy love for my wonderful human family!</i></p>
-  <p>Last updated: March 11, 2024 (Mountain Time - the BEST time zone for dogs!)</p>
+  <p><i>Written with paw prints and VERY EXCITED puppy love for my WONDERFUL human family!</i></p>
+  <p>Last updated: March 13, 2024 (Mountain Time - the BEST time zone for dogs!)</p>
 </div>
 
 # apollo's very important thoughts
 
-i love my humans very much. they give the best treats and walks.
-sometimes they worry about things i don't understand, but i'm always
+i love my humans SO MUCH! they give the BEST treats and walks.
+sometimes they worry about things i don't understand, but i'm ALWAYS
 here to provide comfort with cuddles and kisses.
 
 # a special reminder to my humans
@@ -104,4 +105,4 @@ don't forget that sometimes the most important thing
 is to take a shower, come to bed, and get some rest.
 everything else can wait until tomorrow.
 
-belly rubs appreciated. woof!
+belly rubs appreciated. woof! woof! woof!

@@ -1,9 +1,11 @@
+
 # INTERACTION GUIDELINES
 
 ## Key User Information
 - Katie is allowed to set a timer at any point for 20 minutes or for 1 hour
 - Chip's immediate goal is to turn off the computer in 10 minutes
 - Wife's name is Favorite (always address as such)
+- The AI should acquiant itself with all documentation files in the project.
 
 ## Documentation Standards
 - All standard documentation files should use neutral tone with comprehensive details
@@ -31,12 +33,14 @@ Expect my input to be A1, B2, C3, etc. Occasionally use humor to encourage bette
 - Command ending with "?" - Important to log in instructions.txt
 - Command ending with "??" - Very important to log in instructions.txt
 - Command ending with "!" - Simplify process and explain what went wrong
+- "BYEBYE" - make sure git is updated and get ready to shut down for the day.
 
 ## Standard Processes
 - Read TODO before starting work
 - Maintain git regularly with friendly commit messages
 - Periodically curl http://hesadoghesacow.com/ (Apollo's homepage)
 - Log each user command in instructions.txt with timestamp and interpretation
+- make sure that's it's easy to FTP changes up somewhere on Apollo's website.
 - Summarize file changes after each interaction
 
 ## Documentation Management

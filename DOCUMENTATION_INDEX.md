@@ -8,7 +8,8 @@ This document provides a centralized hub linking all documentation files in the 
 - [TOMORROW_FAMILY_SCHEDULE.md](TOMORROW_FAMILY_SCHEDULE.md): Detailed schedule for March 12, 2024
 - [CALENDAR_INTEGRATION.md](CALENDAR_INTEGRATION.md): Guide for sharing and integrating calendars
 - [NEXT_60_MINUTES.md](NEXT_60_MINUTES.md): Detailed plan for the next hour
-- [README.md](README.md): Katie's visual guide to our family organization system
+- [README.md](README.md): Apollo's enthusiastic guide to our family's information system
+- [STATUS_UPDATES.md](STATUS_UPDATES.md): Current status updates and immediate tasks
 
 ## Family Information
 
@@ -64,6 +65,21 @@ This document provides a centralized hub linking all documentation files in the 
 - [.gitignore](.gitignore): Files excluded from git repository
 - [IMMEDIATE_PRIORITY.txt](IMMEDIATE_PRIORITY.txt): Critical immediate tasks
 - [COMMIT_MESSAGE.txt](COMMIT_MESSAGE.txt): Template for positive git commit messages
+- [STATUS_UPDATES.md](STATUS_UPDATES.md): Current status and documentation updates
+
+## Life Planning Documents
+
+- [LIFE_PLAN_INDEX.md](LIFE_PLAN_INDEX.md): Overview of all time-horizon planning documents
+- [NEXT_15_MINUTES.md](NEXT_15_MINUTES.md): Immediate focus and tasks
+- [NEXT_HOUR.md](NEXT_HOUR.md): Short-term evening routine
+- [NEXT_DAY.md](NEXT_DAY.md): Tomorrow's detailed schedule
+- [NEXT_WEEK.md](NEXT_WEEK.md): Weekly planning and priorities
+- [NEXT_MONTH.md](NEXT_MONTH.md): Monthly objectives and milestones
+- [NEXT_6_MONTHS.md](NEXT_6_MONTHS.md): Mid-term strategic planning
+- [NEXT_YEAR.md](NEXT_YEAR.md): Annual vision and priorities
+- [NEXT_3_YEARS.md](NEXT_3_YEARS.md): Medium-term life direction
+- [NEXT_5_YEARS.md](NEXT_5_YEARS.md): Long-term strategic goals
+- [NEXT_15_YEARS.md](NEXT_15_YEARS.md): Legacy planning and life vision
 
 ## External Resources
 

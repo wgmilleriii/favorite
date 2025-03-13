@@ -52,6 +52,7 @@
 - [ ] Handle any household admin tasks
 - [ ] Organize workspace/piano area
 - [ ] Check in on long-term projects
+- [ ] Clean up the living room
 
 ## 📆 Monthly Activities
 
