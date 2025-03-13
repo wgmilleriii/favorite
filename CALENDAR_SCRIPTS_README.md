@@ -4,8 +4,8 @@
 
 These scripts allow you to easily check your Gazelle piano tuning calendar for upcoming appointments. The system consists of two files:
 
-1. `view_calendar.py` - Python script that downloads and parses the ICS calendar file
-2. `check_calendar.sh` - Bash script wrapper for easy execution
+1. `scripts/view_calendar.py` - Python script that downloads and parses the ICS calendar file
+2. `scripts/check_calendar.sh` - Bash script wrapper for easy execution
 
 ## Prerequisites
 
@@ -22,7 +22,7 @@ These scripts allow you to easily check your Gazelle piano tuning calendar for u
 Run the bash script from your terminal:
 
 ```bash
-./check_calendar.sh
+./scripts/check_calendar.sh
 ```
 
 This will:
@@ -35,7 +35,7 @@ This will:
 You can also run the Python script directly:
 
 ```bash
-python3 view_calendar.py
+python3 scripts/view_calendar.py
 ```
 
 ## Calendar Data Source
@@ -57,7 +57,7 @@ https://gazelleapp.io/calendars/cal_BM7FwKln8bo6rZpqgShFT7CD0pPchDfS3mZ25UvCDxcx
 
 To modify the script to show a different date range or calendar:
 
-1. Edit `view_calendar.py`
+1. Edit `scripts/view_calendar.py`
 2. Change the `ics_url` variable to point to a different calendar
 3. Modify the `get_tomorrow_events()` function to display different dates
 

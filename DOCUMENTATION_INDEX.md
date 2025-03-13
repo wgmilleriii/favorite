@@ -22,8 +22,8 @@ This document provides a centralized hub linking all documentation files in the 
 - [NEXT_STEPS.md](NEXT_STEPS.md): Upcoming tasks and planning calendar
 - [MILLER_FAMILY_UPDATE_SYSTEM.md](MILLER_FAMILY_UPDATE_SYSTEM.md): Communication system for family updates
 - [DOCUMENTATION_NEUTRALIZATION_PLAN.md](DOCUMENTATION_NEUTRALIZATION_PLAN.md): Standardization of documentation tone
-- [SUNDAY_PLANNING_REMINDER.txt](SUNDAY_PLANNING_REMINDER.txt): Template for weekly planning sessions
-- [TODAY_UPDATE_FOR_KATIE.txt](TODAY_UPDATE_FOR_KATIE.txt): Daily update template
+- [SUNDAY_PLANNING_REMINDER.txt](notes/SUNDAY_PLANNING_REMINDER.txt): Template for weekly planning sessions
+- [TODAY_UPDATE_FOR_KATIE.txt](notes/TODAY_UPDATE_FOR_KATIE.txt): Daily update template
 
 ## Practical Guides
 
@@ -31,8 +31,8 @@ This document provides a centralized hub linking all documentation files in the 
 - [APOLLO_MOVIE_NIGHT_SUGGESTIONS.md](APOLLO_MOVIE_NIGHT_SUGGESTIONS.md): Movie recommendations for relaxation
 - [WINDSHIELD_REPLACEMENT_OPTIONS.md](WINDSHIELD_REPLACEMENT_OPTIONS.md): Guide for Katie's windshield replacement
 - [CHIP_SEATBELT_REPLACEMENT.md](CHIP_SEATBELT_REPLACEMENT.md): Guide for passenger [seatbelt](https://en.wikipedia.org/wiki/Seat_belt) replacement
-- [KATIE_PRINTIFY_RESPONSE.txt](KATIE_PRINTIFY_RESPONSE.txt): Instructions for Printify account setup
-- [HUBBY_TODO.txt](HUBBY_TODO.txt): Specific task list for Chip
+- [KATIE_PRINTIFY_RESPONSE.txt](notes/KATIE_PRINTIFY_RESPONSE.txt): Instructions for Printify account setup
+- [HUBBY_TODO.txt](notes/HUBBY_TODO.txt): Specific task list for Chip
 
 ## Care Planning
 
@@ -43,8 +43,8 @@ This document provides a centralized hub linking all documentation files in the 
 ## Calendar Tools
 
 - [CALENDAR_SCRIPTS_README.md](CALENDAR_SCRIPTS_README.md): Documentation for calendar viewing scripts
-- [view_calendar.py](view_calendar.py): Python script to view tomorrow's calendar appointments
-- [check_calendar.sh](check_calendar.sh): Shell script wrapper for the Python calendar viewer
+- [view_calendar.py](scripts/view_calendar.py): Python script to view tomorrow's calendar appointments
+- [check_calendar.sh](scripts/check_calendar.sh): Shell script wrapper for the Python calendar viewer
 - [CALENDAR_INTEGRATION.md](CALENDAR_INTEGRATION.md): Guide for [Google Calendar](https://en.wikipedia.org/wiki/Google_Calendar) integration
 
 ## Creative Content
@@ -56,15 +56,15 @@ This document provides a centralized hub linking all documentation files in the 
 ## Projects & Interests
 
 - [CHIP_CLOCK_ACQUISITION.md](CHIP_CLOCK_ACQUISITION.md): Documentation of Chip's interest in [clock](https://en.wikipedia.org/wiki/Clock) collection
-- [KATIE_GITHUB_UPDATE_REQUEST.txt](KATIE_GITHUB_UPDATE_REQUEST.txt): Request for updates on GitHub project
+- [KATIE_GITHUB_UPDATE_REQUEST.txt](notes/KATIE_GITHUB_UPDATE_REQUEST.txt): Request for updates on GitHub project
 
 ## Administrative Files
 
 - [.cursorrules](.cursorrules): Guidelines for interaction and documentation standards
-- [instructions.txt](instructions.txt): Log of all user commands and interpretations
+- [instructions.txt](notes/instructions.txt): Log of all user commands and interpretations
 - [.gitignore](.gitignore): Files excluded from git repository
-- [IMMEDIATE_PRIORITY.txt](IMMEDIATE_PRIORITY.txt): Critical immediate tasks
-- [COMMIT_MESSAGE.txt](COMMIT_MESSAGE.txt): Template for positive git commit messages
+- [IMMEDIATE_PRIORITY.txt](notes/IMMEDIATE_PRIORITY.txt): Critical immediate tasks
+- [COMMIT_MESSAGE.txt](notes/COMMIT_MESSAGE.txt): Template for positive git commit messages
 - [STATUS_UPDATES.md](STATUS_UPDATES.md): Current status and documentation updates
 
 ## Life Planning Documents
@@ -115,4 +115,4 @@ This document provides a centralized hub linking all documentation files in the 
 
 *This index is maintained to ensure all documentation is easily accessible and interconnected. When creating new documents, please add them to this index in the appropriate section.* 
 
-*Last updated: March 11, 2024 (Mountain Time)* 
+*Last updated: March 12, 2024 (Mountain Time)* 
