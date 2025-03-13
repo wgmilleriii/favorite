@@ -1,3 +1,15 @@
+keep the folder structure of documentation files organized
+docs / 
+   players /
+      apollo/
+      katie/
+      chip
+    learning styles
+      apollo/
+      Chip
+      etc.
+also keep links updated between documentation files.
+
 keep dedicated README files so that CHIP, KATIE, and APOLLO know what to expect in the next 
 - 15 minutes
 - 1 hour
