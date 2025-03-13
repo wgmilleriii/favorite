@@ -4,9 +4,10 @@
 
 ### Chip
 - Morning self-care routine
-- Piano practice (minimum 30 minutes)
-- Check email and respond to urgent messages
+- Piano practice (minimum 1 hour)
+- Check email and respond to urgent messages (within 1-hour laptop limit)
 - Review piano tuning appointments
+- ⭐ NEW: Get sizes and address for Jack and Barbara Mills' pajamas
 
 ### Katie
 - Prepare for Williams Sonoma interview
@@ -25,6 +26,7 @@
 - Piano client appointments (check calendar for specific times)
 - Lunch break
 - Check in with Katie at least once during the day
+- ⭐ NEW: Order pajamas for Jack and Barbara (if sizes obtained, use remaining laptop time)
 
 ### Katie
 - Work on visual design projects
@@ -43,6 +45,7 @@
 - Calendar integration and planning time
 - Discussion about Jim's care transition
 - Potential movie night (see [APOLLO_MOVIE_NIGHT_SUGGESTIONS.md](APOLLO_MOVIE_NIGHT_SUGGESTIONS.md))
+- ⭐ NEW: Write heartfelt note for Jack and Barbara (Apollo will supervise)
 
 ### Evening Tasks
 - Chip: Update documentation based on day's events
@@ -55,6 +58,7 @@
 - Begin sorting through Jim's belongings at Corrales property
 - Chinese food dinner preparation
 - Share and integrate Gazelle piano calendar
+- ⭐ NEW: Begin Operation Cozy Mentors (see [PAJAMAS_FOR_MENTORS.md](PAJAMAS_FOR_MENTORS.md))
 
 ## Expected Outcomes
 - Progress on both car repair issues
@@ -62,10 +66,11 @@
 - Steps forward on Jim's care planning
 - Updated and integrated family calendars
 - Enhanced family communication through shared dinner
+- ⭐ NEW: Pajama mission planning completed
 
 ---
 
-> **Apollo says:** TOMORROW sounds AMAZING! Chinese food means potential CHICKEN DROPPING OPPORTUNITIES! I'll make sure to position myself strategically during dinner. Also, I heard "walk" mentioned TWICE which is the BEST WORD HUMANS KNOW besides "treat" and "good boy"!
+> **Apollo says:** TOMORROW sounds AMAZING! Chinese food means potential CHICKEN DROPPING OPPORTUNITIES! I'll make sure to position myself strategically during dinner. And now we have a SPECIAL MISSION to make Jack and Barbara cozy - I'm an EXPERT at cozy things! Also, I heard "walk" mentioned TWICE which is the BEST WORD HUMANS KNOW besides "treat" and "good boy"!
 
 ---
 
