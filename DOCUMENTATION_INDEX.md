@@ -8,7 +8,7 @@ This document provides a centralized hub linking all documentation files in the 
 - [TOMORROW_FAMILY_SCHEDULE.md](TOMORROW_FAMILY_SCHEDULE.md): Detailed schedule for March 12, 2024
 - [CALENDAR_INTEGRATION.md](CALENDAR_INTEGRATION.md): Guide for sharing and integrating calendars
 - [NEXT_60_MINUTES.md](NEXT_60_MINUTES.md): Detailed plan for the next hour
-- [README.md](README.md): Apollo's enthusiastic guide to our family's information system
+- [README.md](README.md): Simple entry point to the family's documentation system
 - [STATUS_UPDATES.md](STATUS_UPDATES.md): Current status updates and immediate tasks
 
 ## Family Information
@@ -80,6 +80,28 @@ This document provides a centralized hub linking all documentation files in the 
 - [NEXT_3_YEARS.md](NEXT_3_YEARS.md): Medium-term life direction
 - [NEXT_5_YEARS.md](NEXT_5_YEARS.md): Long-term strategic goals
 - [NEXT_15_YEARS.md](NEXT_15_YEARS.md): Legacy planning and life vision
+
+## Personal Improvement Guides
+
+- [PERSONAL_IMPROVEMENT_INDEX.md](PERSONAL_IMPROVEMENT_INDEX.md): Overview of personalized improvement guides
+- **Chip's Guides**:
+  - [CHIP_PERSONAL_COMMUNICATION.md](CHIP_PERSONAL_COMMUNICATION.md): Enhancing communication as an introvert
+  - [CHIP_FINANCIAL_WELLNESS.md](CHIP_FINANCIAL_WELLNESS.md): Methodical financial planning
+  - [CHIP_MENTAL_WELLNESS.md](CHIP_MENTAL_WELLNESS.md): Mental clarity and balance
+  - [CHIP_PHYSICAL_WELLNESS.md](CHIP_PHYSICAL_WELLNESS.md): Sustainable physical health
+  - [CHIP_FAMILY_COMMUNICATION.md](CHIP_FAMILY_COMMUNICATION.md): Family connection approaches
+- **Katie's Guides**:
+  - [KATIE_PERSONAL_COMMUNICATION.md](KATIE_PERSONAL_COMMUNICATION.md): Leveraging expressive communication
+  - [KATIE_FINANCIAL_WELLNESS.md](KATIE_FINANCIAL_WELLNESS.md): Visual financial planning
+  - [KATIE_MENTAL_WELLNESS.md](KATIE_MENTAL_WELLNESS.md): Creative mental wellness
+  - [KATIE_PHYSICAL_WELLNESS.md](KATIE_PHYSICAL_WELLNESS.md): Energetic health strategies
+  - [KATIE_FAMILY_COMMUNICATION.md](KATIE_FAMILY_COMMUNICATION.md): Family relationship approaches
+- **Apollo's Guides**:
+  - [APOLLO_PERSONAL_COMMUNICATION.md](APOLLO_PERSONAL_COMMUNICATION.md): Communication from a dog's perspective
+  - [APOLLO_FINANCIAL_WELLNESS.md](APOLLO_FINANCIAL_WELLNESS.md): Treat economics
+  - [APOLLO_MENTAL_WELLNESS.md](APOLLO_MENTAL_WELLNESS.md): Finding joy in the moment
+  - [APOLLO_PHYSICAL_WELLNESS.md](APOLLO_PHYSICAL_WELLNESS.md): Exercise and rest balance
+  - [APOLLO_FAMILY_COMMUNICATION.md](APOLLO_FAMILY_COMMUNICATION.md): Pack harmony strategies
 
 ## External Resources
 
