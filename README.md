@@ -5,6 +5,7 @@
 ## ⏰ QUICK TIME LINKS (Because humans need help with time like I need help with squirrels!)
 - [Next 15 Minutes](docs/planning/immediate/TODAY_SCHEDULE.md#afternoon) (For when Katie needs a quick timer!)
 - [Next Hour](docs/planning/immediate/TODAY_SCHEDULE.md#evening) (For Chip's laptop time tracking!)
+- [Time Block Tracker](docs/planning/immediate/TIME_BLOCKS.md) (My special timing system!)
 - [Today's Full Schedule](docs/planning/immediate/TODAY_SCHEDULE.md) (My minute-by-minute surveillance report!)
 - [Family Status Updates](docs/family/FAMILY_STATUS.md) (Real-time family happiness tracking!)
 
@@ -15,7 +16,8 @@
 *MEGA TAIL-WAGGING UPDATES:*
 1. 🎉 CHIP COMES HOME AT 6:00 PM TODAY! (Welcome dance rehearsals in progress!)
 2. 🌟 Katie conquered overwhelm AND sent her Williams Sonoma references! (Double proud!)
-3. 💝 Family happiness levels reaching new heights! (Like finding ALL the tennis balls!)
+3. 🎻 MONDAY MUSIC MEETING: Chip meets Priscilla (violin teacher) and her husband around 1 PM! (Katie might join - more humans to love!)
+4. 💝 Family happiness levels reaching new heights! (Like finding ALL the tennis balls!)
 
 ## TODAY'S MISSION CRITICAL SCHEDULE
 - **NOW - 5:59 PM**: Final preparations for Chip's arrival
@@ -39,6 +41,7 @@
 ## SPECIAL MISSIONS
 - Operation Welcome Home (Chip arrives at 6:00 PM SHARP!)
 - Williams Sonoma Support (Katie's references = SUCCESS!)
+- Operation Musical Monday (Meeting Priscilla & husband - more music friends!)
 - Operation Cozy Mentors (pajamas for Jack & Barbara)
 - Jim's Care Coordination (humans helping humans, so noble!)
 
