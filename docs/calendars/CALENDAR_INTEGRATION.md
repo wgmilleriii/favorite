@@ -89,4 +89,79 @@ To access shared calendars on mobile devices:
 
 ---
 
-*For additional documentation on Google Calendar sharing features, refer to [Google's official support page](https://support.google.com/calendar/answer/37648?hl=en).* 
+*For additional documentation on Google Calendar sharing features, refer to [Google's official support page](https://support.google.com/calendar/answer/37648?hl=en).*
+
+# 📱 Family Calendar Integration
+*WOOF! Apollo here helping keep track of everyone's schedules!*
+
+## 📅 Current Calendar Systems
+### iPhone Family Calendar
+- **Platform**: Apple iCloud Calendar
+- **Users**: 
+  - Chip
+  - Katie
+  - [Other family members to be added]
+- **Current Important Dates**:
+  - March 13, 2024 (Tonight): Dinner with Alex from 88 Keys Piano Warehouse
+
+### Professional Calendars
+- **Gazelle App**: Chip's piano tuning appointments
+  - Client: Lucas (recurring)
+  - Other client appointments
+- **Williams Sonoma**: Katie's upcoming interview
+
+### Upcoming Events
+- Denver Trip (Jan 30 - Feb 7, 2025)
+- Apollo's adoption anniversary (October 2024)
+- Chinese food dinner (Tomorrow)
+
+## 🔄 Calendar Sync Status
+### Active Integrations
+- iPhone Family Calendar ✅
+- Gazelle App (Chip's work) ✅
+- [Other integrations to be added]
+
+### Pending Integrations
+- Jim's medical appointments
+- VA appointments
+- Retirement home visits
+
+## 📋 Calendar Guidelines
+### Adding New Events
+1. Add to iPhone Family Calendar first
+2. Include:
+   - Clear event title
+   - Location details
+   - Participant names
+   - Any special preparations needed
+
+### Calendar Maintenance
+- Regular sync checks
+- Remove outdated events
+- Update recurring appointments
+- Verify shared access
+
+## 🏠 Home Schedule Considerations
+### Daily Routines
+- Apollo's walks
+- Quiet time periods
+- Meal schedules
+- Cleaning routines
+
+### Special Events
+- Family movie nights
+- Building projects
+- Business meetings
+- Family visits
+
+## 🎯 Calendar Goals
+- Keep all family members informed
+- Prevent schedule conflicts
+- Maintain clear communication
+- Easy access for everyone
+- Regular updates
+
+*Note: Remember to check both iPhone and Gazelle calendars when planning!*
+
+Last Updated: March 13, 2024
+*Tracked by Apollo (I love knowing when everyone's coming and going!) 🐾* 

@@ -34,6 +34,8 @@
   - Chinese food dinner night (Wednesday)
   - Jim's care planning meeting (90 min)
   - Video call with Jack in Utah (30 min)
+  - Watch "Weatherman" together
+  - Complete LEGO clock project
 
 ## Monthly Objectives
 ### Home & Environment
@@ -79,11 +81,16 @@ Next Review: March 20, 2024
 - Coordinate with Lucas for regular appointments
 - Align activities with Apollo's energy levels
 - Account for Jim's mobility needs
+- Keep movie watching area and LEGO workspace clean
+- Maintain project organization standards
 
 ## Resources
 - [VA Benefits Guide](docs/resources/va_benefits.md)
 - [Retirement Home Checklist](docs/resources/retirement_homes.md)
 - [Apollo's Wellness Tips](docs/players/apollo/wellness_tips.md)
 - [Family Calendar](docs/calendars/CALENDAR_INTEGRATION.md)
+- [Current Projects](docs/family_activities/CURRENT_PROJECTS.md)
+- [Restaurant Recommendations](docs/family_activities/RESTAURANT_RECOMMENDATIONS.md)
+- [Quick Search Links](docs/resources/QUICK_SEARCH_LINKS.md) - Find anything nearby! 🔍
 
 *Remember: Take breaks for belly rubs and squirrel watching! 🐾* 
