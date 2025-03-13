@@ -20,8 +20,8 @@ Hello there. This is where the Miller family keeps their documentation.
 - [Chinese Food](CHINESE_FOOD_INGREDIENTS.md) - Dinner planning
 
 ### Family Members
-- Chip - Piano tuner, introvert, documentation creator
-- Katie - Visual artist, extrovert, Williams Sonoma applicant
+- Dr. Willis Glen "Chip" Miller III - Piano tuner, introvert, documentation creator
+- Katie Hiett - Visual artist, extrovert, Williams Sonoma applicant
 - Apollo - Family dog, squirrel enthusiast, treat connoisseur
 - Jim - Katie's father, currently needs wheelchair-accessible care
 

@@ -8,7 +8,7 @@
 ## 👫 Core Family
 
 ### Chip Miller
-- **Full Name**: Willis Glen "Chip" Miller, III
+- **Full Name**: Dr. Willis Glen "Chip" Miller III
 - **Date of Birth**: September 9, 1975
 - **Age**: 48 years old
 - **Residence**: Albuquerque, NM
@@ -52,13 +52,13 @@
 ## 👨‍👩‍👧‍👦 Extended Family (Katie's Side)
 
 ### Katie
-- **Full Name**: Katie Miller (?)
+- **Full Name**: Katie Hiett
 - **Date of Birth**: September 24, 1986
 - **Residence**: Albuquerque, NM
 - **Professional**: 
   - Currently: Part-time worker at Talbots
   - Upcoming: Job interview at Williams Sonoma (high-end kitchen store)
-- **Relationship**: Married to Chip
+- **Relationship**: Married to Dr. Willis Glen "Chip" Miller III (maintains maiden name)
 
 ### Jim (Katie's Father)
 - **Professional**: Retired Lieutenant Colonel (Military)
