@@ -32,14 +32,27 @@ Hello there. This is where the Miller family keeps their documentation.
 - Calendar integration
 
 ### Directory Structure
-- `docs/players/` - Player-specific documentation (activities, interests, skills)
-  - `apollo/` - Apollo's files
-  - `katie/` - Katie's files
-  - `chip/` - Chip's files
-- `docs/learning_styles/` - Communication and learning style documents
-  - `apollo/` - Apollo's communication style
-  - `katie/` - Katie's visual learning approach
-  - `chip/` - Chip's introvert communication
+- `docs/` - Main documentation directory
+  - `players/` - Player-specific documentation
+    - `apollo/` - Apollo's files
+    - `katie/` - Katie's files
+    - `chip/` - Chip's files
+  - `learning_styles/` - Communication and learning style documents
+    - `apollo/` - Apollo's communication style
+    - `katie/` - Katie's visual learning approach
+    - `chip/` - Chip's introvert communication
+  - `planning/` - Time-based planning documents
+    - `immediate/` - Short timeframes (15 minutes to 1 day)
+    - `short_term/` - Near future (1 week to 1 month)
+    - `medium_term/` - Mid-range planning (6 months to 3 years)
+    - `long_term/` - Extended planning (5+ years)
+  - `family_profiles/` - Family member information and dynamics
+  - `calendars/` - Calendar integration and scheduling
+  - `priorities/` - Immediate tasks and schedules
+  - `guides/` - Practical instruction documents
+  - `meta/` - Documentation about documentation
+  - `creative/` - Creative writing exercises
+  - `status/` - Current status updates
 - `scripts/` - Scripts for automation (calendar tools, etc.)
 - `notes/` - Text files for quick notes and reminders
 
