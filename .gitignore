@@ -4,6 +4,8 @@
 *.ics
 *.ical
 *calendar*.txt
+*calendar*.json
+calendar_cache.json
 
 # Private information
 *private*

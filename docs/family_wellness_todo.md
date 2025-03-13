@@ -65,6 +65,8 @@
 
 ## Annual Aspirations
 - [ ] Denver trip planning (Jan 30 - Feb 7, 2025)
+- [ ] Utah visit to Jack's (Spring 2024)
+- [ ] Map out all family visits for the year
 - [ ] Apollo's adoption anniversary celebration (October)
 - [ ] Family documentation system review
 
@@ -92,5 +94,6 @@ Next Review: March 20, 2024
 - [Current Projects](docs/family_activities/CURRENT_PROJECTS.md)
 - [Restaurant Recommendations](docs/family_activities/RESTAURANT_RECOMMENDATIONS.md)
 - [Quick Search Links](docs/resources/QUICK_SEARCH_LINKS.md) - Find anything nearby! 🔍
+- [Family Travel Plans](docs/family_activities/FAMILY_TRAVEL_PLANS.md) - Track all family visits! ✈️
 
 *Remember: Take breaks for belly rubs and squirrel watching! 🐾* 
