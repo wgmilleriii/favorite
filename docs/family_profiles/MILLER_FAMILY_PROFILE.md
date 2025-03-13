@@ -22,13 +22,24 @@
   - Services include standard tunings ($180) and piano restoration
   - Regular client named Lucas (recurring appointments)
   - Plans for a Denver business trip (Jan 30 - Feb 7, 2025)
-- **Personal**: Introvert who values communication through writing
+- **Personal**: 
+  - Introvert who values communication through writing
+  - Strong preference for cleanliness and organization
+  - Maintains strict "nothing on the floor" policy
+  - Requires clean countertops and organized spaces
+  - Values minimalist, clutter-free environments
 - **Origin**: Grew up in Richmond, Virginia
 - **Diet**: 
   - Mediterranean diet focus
   - Minimizing processed foods and refined sugars
   - Intermittent fasting (16:8 pattern)
   - Daily calorie target: ~2,000 calories
+- **Organization Style**:
+  - Methodical approach to space management
+  - Maintains designated storage for all items
+  - Regular cleaning schedules
+  - Structured daily routines
+  - Detailed documentation habits
 
 ### Favorite (Wife)
 - **Relationship**: Married to Chip
