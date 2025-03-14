@@ -51,7 +51,7 @@ README.md should always be written from apollos perspective and contain a link t
 - FOCUS: Chip needs to practice and only practice. make sure the computer is OFF.
 - CELEBRATE: update all documentation with encouraging comments and todo next steps
 - LINKS: double check for links and existing files, make sure that all links point to files that work and are accurate. Create new links even to external sites like wikipedia but only to weikipedia.
-- TANGO: look at the calendar (live data please) for anything related to tango
+- TANGO: look at the calendar (live data please) for anything related to tango. update tango documentation focusing on chip's music he is currently playing and curl http://chipmillerpiano.com for live updates
 - GOODMORNING: SNOOP
 - SNOOP: inspect the progress of your NEIGHBOR and update this repo's NEIGHBOR_TODO.md
 - BYEBYE: Document next steps when productivity decreases.
