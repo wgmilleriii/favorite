@@ -169,6 +169,9 @@
 - Options include selling, renting, or keeping in the family
 - Property has special features (horse training area) that may affect decisions
 
+## Important Documents
+- End of Life Care Planning: [MILLER_PARENTS_EOL_CARE.md](../MILLER_PARENTS_EOL_CARE.md)
+
 ---
 
 <div align="center">
