@@ -1,3 +1,6 @@
+
+README.md should always be written from apollos perspective and contain a link to REAMDE_favorite
+
 `# Environment Setup
 - Determine if running on MAC or PC before starting
 - Create TODO_MAC and TODO_PC files if missing
@@ -35,6 +38,10 @@
 
 # File Maintenance
 - README: Maintain GOALS and FAQs sections
+- UPDATEFAMILY: update all documentation files related to family members with your latest knowledge of personality changes etc.
+- FOCUS: Chip needs to practice and only practice. make sure the computer is OFF.
+- CELEBRATE: update all documentation with encouraging comments and todo next steps
+- LINKS: double check for links and existing files, make sure that all links point to files that work and are accurate. Create new links even to external sites like wikipedia but only to weikipedia.
 - TANGO: look at the calendar (live data please) for anything related to tango
 - GOODMORNING: SNOOP
 - SNOOP: inspect the progress of your NEIGHBOR and update this repo's NEIGHBOR_TODO.md

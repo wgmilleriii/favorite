@@ -1,0 +1,20 @@
+# MAC-Specific Tasks
+*Woof! Here are the special tasks for our Mac friends!*
+
+## Environment Setup
+- [ ] Check Python version (3.8+ required)
+- [ ] Verify homebrew installation
+- [ ] Set up virtual environment
+- [ ] Install required packages
+
+## Daily Tasks
+- [ ] Check system updates
+- [ ] Verify backup status
+- [ ] Monitor disk space
+
+## Development Tasks
+- [ ] Test Mac-specific UI elements
+- [ ] Verify file paths (Mac uses forward slashes)
+- [ ] Check file permissions
+
+*Note: This file is maintained by Apollo, your favorite four-legged DevOps expert! 🐾* 
