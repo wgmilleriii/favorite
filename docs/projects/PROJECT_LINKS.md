@@ -50,6 +50,19 @@
   - Contact: [UNM Faculty Page]
 
 ### Development Team
+- **Christopher Arlos Hames**
+  - Project: Etsy Integration & Documentation
+  - Focus: Technical documentation and systems
+  - Family: Two children
+  - Collaboration: Regular project meetings
+  - Expertise: Documentation systems
+
+- **David Moore**
+  - Project: Etsy Development
+  - Focus: Platform integration
+  - Collaboration: Project contributor
+  - Current: Active on Etsy integration
+
 - **Christopher**
   - Project: STSY Development
   - Focus: Sight-reading system
@@ -91,6 +104,17 @@ Elder Tiberius Website
 Weekly Care Updates
          ↓
 Family Coordination
+```
+
+### E-commerce Integration
+```
+Etsy Store Integration
+    ↓
+Christopher & David Collaboration
+    ↓
+Printify Integration
+    ↓
+Product Management
 ```
 
 ## 📚 SHARED RESOURCES
