@@ -1,4 +1,3 @@
-
 # INTERACTION GUIDELINES
 
 ## Key User Information
@@ -30,6 +29,9 @@ Expect my input to be A1, B2, C3, etc. Occasionally use humor to encourage bette
 
 ## Special Commands
 - "CHECKIN" - Point toward goals for the next 15 minutes and open documentation file
+- "CLOCKCHECKIN" - Update all clock related documents to the minute, learn about clocks and update documentation with Wikipedia links, update documentation on capitalizing off clocks and typewriters, reference Chip's clock books
+- "PIANOCHECKIN" - Focus on documenting the workings of a grand piano action and the measuring of up/down weight ratios
+- "RICHMONDCHECKIN" - Track travel milestones and update related documentation
 - Command ending with "?" - Important to log in instructions.txt
 - Command ending with "??" - Very important to log in instructions.txt
 - Command ending with "!" - Simplify process and explain what went wrong
