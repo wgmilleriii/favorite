@@ -1,39 +1,45 @@
-# Next Hour: Evening Routine
+# Next Hour: Santa Fe Trip Preparation
 
 ## Chip's Tasks (0-60 minutes)
-- Take a shower (15-25 minutes)
-- Make an adult beverage (5 minutes)
-- Begin cleaning the living room (15-20 minutes)
-- Prepare something to eat (15 minutes)
+- Set up new car organizing items (10 minutes)
+- Vacuum car (10 minutes)
+- Finish gathering piano restoration tools (10 minutes)
+- Pack necessary supplies and equipment (15 minutes)
+- Verify route to Efthimios's place in Santa Fe (5 minutes)
+- Begin drive to Santa Fe (10 minutes of the first hour)
 
 ## Katie's Activities
 - Continue with current projects
 - Potential opportunity to set a 1-hour timer if desired (per custom instructions)
-- Available for coordination on dinner plans
+- Prepare for Williams Sonoma interview
+- Prepare Chinese food ingredients list to coordinate with Chip
+- Determine which ingredients Chip should pick up on his way home
 
 ## Apollo's Schedule
 - Supervised nap
-- Occasional check-ins on humans
-- Strategic positioning for food opportunities
+- Occasional window checks for Chip's departure
+- Strategic positioning for pre-trip pets
 
 ## Expected Outcomes
-- Chip will have completed personal hygiene routine
-- Living room will be partially or fully cleaned
-- Both hydration and nutrition needs will be addressed
-- Evening relaxation can commence
+- Chip fully prepared for piano restoration work
+- Travel to Santa Fe initiated
+- Katie aware of day's modified schedule
+- Coordination plan for evening Chinese food dinner
 
 ## Key Considerations
-- Avoid any tasks involving cardboard or Amazon packages
-- Focus on creating a comfortable evening environment
-- Prioritize self-care and basic needs
+- Ensure all piano restoration tools are packed
+- Acknowledge return time from Santa Fe is uncertain
+- Chip will try to keep this site updated throughout the day
+- Katie should coordinate Chinese food ingredient needs
+- Chip will pick up ingredients on return journey if coordinated
 
 ## Next Steps
-After completing this hour's tasks, refer to [NEXT_DAY.md](NEXT_DAY.md) for tomorrow's priorities and scheduled events.
+After beginning the Santa Fe trip, refer to [NEXT_DAY.md](NEXT_DAY.md) for the complete day's schedule including the piano restoration work and evening activities.
 
 ---
 
-> **Apollo says:** A WHOLE HOUR is SO LONG in dog time! I could run around the yard 527 times, bark at 43 squirrels, take another nap, and STILL wonder why humans take so long in the shower! The BEST part is when dad makes food - sometimes things fall on the floor and guess who gets them? ME! I'M THE FLOOR CLEANER!
+> **Apollo says:** A WHOLE HOUR means dad's going to SANTA FE?! That's like... TWO HUNDRED SIXTY-SEVEN MILES in dog distances! I'll watch from the window until the car disappears, then nap until he returns smelling like NEW PEOPLE and STRANGE PIANOS! I wonder if Efthimios has any DOGS I should know about? Katie and I will hold down the fort!
 
 ---
 
-*Last updated: March 13, 2024 (Mountain Time)* 
+*Last updated: March 14, 2024 (Mountain Time)* 

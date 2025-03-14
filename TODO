@@ -37,20 +37,33 @@ Apollo adoption day October 2024.
 
 ## Completed Organization Tasks
 - [x] Directory structure implemented:
-  - docs/players/ - Player-specific documentation
-  - docs/learning_styles/ - Communication and learning style documents
+  - docs/ - Main documentation directory with logical subfolders:
+    - players/ - Player-specific documentation
+    - learning_styles/ - Communication style documents
+    - planning/ - Time-based planning documents
+      - immediate/ - 15 minutes to 1 day
+      - short_term/ - 1 week to 1 month
+      - medium_term/ - 6 months to 3 years
+      - long_term/ - 5+ years
+    - family_profiles/ - Family information
+    - calendars/ - Calendar-related documents
+    - priorities/ - Immediate tasks and schedules
+    - guides/ - Instruction documents
+    - meta/ - Documentation about documentation
+    - creative/ - Creative content
+    - status/ - Status updates
   - scripts/ - Automation scripts
   - notes/ - Text files and quick notes
 - [x] All links updated in documentation files to reflect new structure
-- [x] README updated with directory structure information
+- [x] README updated with comprehensive directory structure information
 
 ## Key Reference Documents
 
-- [MILLER_FAMILY_BIOS.md](MILLER_FAMILY_BIOS.md): Comprehensive family member biographies
-- [CALENDAR_INTEGRATION.md](CALENDAR_INTEGRATION.md): Guide for sharing and integrating calendars
+- [MILLER_FAMILY_BIOS.md](docs/family_profiles/MILLER_FAMILY_BIOS.md): Comprehensive family member biographies
+- [CALENDAR_INTEGRATION.md](docs/guides/CALENDAR_INTEGRATION.md): Guide for sharing and integrating calendars
 - [APOLLO_MOVIE_NIGHT_SUGGESTIONS.md](docs/players/apollo/APOLLO_MOVIE_NIGHT_SUGGESTIONS.md): Entertainment options
-- [TOMORROW_FAMILY_SCHEDULE.md](TOMORROW_FAMILY_SCHEDULE.md): Detailed schedule for March 12, 2024
-- [CHINESE_FOOD_INGREDIENTS.md](CHINESE_FOOD_INGREDIENTS.md): Ingredients list for tomorrow's dinner
+- [TOMORROW_FAMILY_SCHEDULE.md](docs/priorities/TOMORROW_FAMILY_SCHEDULE.md): Detailed schedule for March 12, 2024
+- [CHINESE_FOOD_INGREDIENTS.md](docs/guides/CHINESE_FOOD_INGREDIENTS.md): Ingredients list for tomorrow's dinner
 
 ## Priority Tasks - Chip
 
