@@ -1,26 +1,33 @@
 # Next 15 Minutes: Immediate Focus
 
 ## Chip's Immediate Tasks
-- Turn off computer (highest priority, as noted in custom instructions)
-- Drink a glass of water (from STATUS_UPDATES.md)
-- Begin preparing for shower
+- Begin preparations for Santa Fe trip to restore Efthimios's piano
+- Set up new car organizing items
+- Prepare to vacuum car
+- Gather piano restoration tools and supplies
+- Check route to Santa Fe
+- Turn off computer in 10 minutes (highest priority)
+
+## Status Update Commands
+- Remember to use PIANOCHECKIN once work on Efthimios's piano begins
+- Use RICHMONDCHECKIN when reaching certain travel milestones
 
 ## Katie's Immediate Tasks
-- Continue with current activity
-- Check in with Chip before he logs off
+- Review Chinese food ingredients list for tomorrow's dinner
+- Continue Williams Sonoma interview preparation if applicable
 
-## Apollo's Activities
-- Be a good boy
-- Supervise humans
-- Hope for treats
+## Family Planning Tasks
+- Begin research on wheelchair-accessible retirement homes for Jim
+- Note coordination needed for piano client appointments
 
 ## Expected Outcomes
-- Chip will complete computer work and prepare for evening routine
-- Immediate hydration needs will be met
-- Mental preparation for transitioning to offline activities
+- Trip preparation initiated
+- Route to Efthimios's place in Santa Fe confirmed
+- Documentation of Santa Fe trip details
+- Dinner preparation clarity
 
 ## Next Steps
-After completing these 15-minute tasks, refer to [NEXT_HOUR.md](NEXT_HOUR.md) for the hour-long plan which includes shower, cleaning, and dinner preparation.
+After completing these 15-minute tasks, refer to [NEXT_HOUR.md](NEXT_HOUR.md) for the hour-long plan which includes final preparations, travel to Santa Fe, and piano restoration work.
 
 ---
 
@@ -28,4 +35,4 @@ After completing these 15-minute tasks, refer to [NEXT_HOUR.md](NEXT_HOUR.md) fo
 
 ---
 
-*Last updated: March 13, 2024 (Mountain Time)* 
+*Last updated: March 14, 2024 (Mountain Time)* 

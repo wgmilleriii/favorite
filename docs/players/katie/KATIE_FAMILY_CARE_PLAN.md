@@ -71,6 +71,7 @@
 3. Research VA and military benefits for retired Lieutenant Colonels
 4. Begin researching retirement communities that meet criteria
 5. Consult with financial advisor about retirement home funding options
+6. Retrieve pedal rod from basement piano shop during next visit (see [CORRALES_PIANO_PARTS.md](../chip/CORRALES_PIANO_PARTS.md))
 
 ---
 
