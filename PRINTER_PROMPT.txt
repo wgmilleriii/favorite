@@ -1,0 +1,25 @@
+Task: Create a comparison of home-use label printers that can batch print different labels from a single file.
+
+Context:
+- Current situation: Setting up home organization system needing multiple unique labels
+- Goal: Find a printer that can print 100 different labels by sending one file
+- Constraints: Must be suitable for home use, not industrial scale
+
+Required Output:
+1. Format: Bulleted list of top 3 recommended printers with key features
+2. Detail level: Basic features and pricing, focused on batch printing capability
+3. Tone: Practical recommendations for home user
+
+Additional Parameters:
+- Include: Printer name, price range, software interface, label sizes, batch printing method
+- Exclude: Industrial printers, complex enterprise solutions
+- Examples: Like Brother P-touch but with batch capabilities
+
+Evaluation Criteria:
+□ Must support printing different labels from single file
+□ Should be programmable or have user-friendly software
+□ Avoid suggesting printers over $500
+
+Follow-up:
+- If you need clarification, ask about specific use cases
+- Include Amazon links if possible 

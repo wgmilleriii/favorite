@@ -22,17 +22,50 @@
   - Services include standard tunings ($180) and piano restoration
   - Regular client named Lucas (recurring appointments)
   - Plans for a Denver business trip (Jan 30 - Feb 7, 2025)
-- **Personal**: Introvert who values communication through writing
+- **Personal**: 
+  - Introvert who values communication through writing
+  - Strong preference for cleanliness and organization
+  - Maintains strict "nothing on the floor" policy
+  - Requires clean countertops and organized spaces
+  - Values minimalist, clutter-free environments
 - **Origin**: Grew up in Richmond, Virginia
 - **Diet**: 
   - Mediterranean diet focus
   - Minimizing processed foods and refined sugars
   - Intermittent fasting (16:8 pattern)
   - Daily calorie target: ~2,000 calories
+- **Organization Style**:
+  - Methodical approach to space management
+  - Maintains designated storage for all items
+  - Regular cleaning schedules
+  - Structured daily routines
+  - Detailed documentation habits
+- **Joy Sources**: 
+  - Clean, organized spaces
+  - Written communication
+  - Thoughtful gestures from family
+  - Seeing tasks completed properly
+  - Family members supporting each other
+  - Peaceful home environment
+  - Having time for piano practice
+  - Documentation and planning
+  - Clear surfaces and pathways
+  - Structured routines
 
 ### Favorite (Wife)
 - **Relationship**: Married to Chip
 - **Dynamic**: Extrovert (complementary to Chip's introversion)
+- **Contributions**:
+  - Maintains home organization
+  - Walks Apollo regularly
+  - Keeps kitchen organized
+  - Supports family wellness
+  - Brings energy to family life
+  - Handles cardboard processing
+  - Creates visual organization systems
+  - Maintains clear spaces
+  - Coordinates family activities
+  - Balances multiple responsibilities
 
 ### Megan (Daughter)
 - **Relationship**: Chip's daughter
@@ -48,6 +81,17 @@
 - **Age**: ~5 years old
 - **Breed**: Collie/Black Lab/Pitbull mix
 - **Adoption**: Adopted approximately 4 months ago (November/December 2023)
+- **Happiness Factors**:
+  - Regular walks with Katie
+  - Clean floors for treat finding
+  - Family time supervision
+  - Strategic napping locations
+  - Squirrel monitoring duties
+  - House guardian responsibilities
+  - Clear pathways for zoomies
+  - Family dinner monitoring
+  - Organized toy basket
+  - Being included in family activities
 
 ## 👨‍👩‍👧‍👦 Extended Family (Katie's Side)
 
@@ -124,6 +168,9 @@
 - Decisions needed about property once Jim and Ruth relocate
 - Options include selling, renting, or keeping in the family
 - Property has special features (horse training area) that may affect decisions
+
+## Important Documents
+- End of Life Care Planning: [MILLER_PARENTS_EOL_CARE.md](../MILLER_PARENTS_EOL_CARE.md)
 
 ---
 
