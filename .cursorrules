@@ -1,6 +1,8 @@
 
 README.md should always be written from apollos perspective and contain a link to REAMDE_favorite
 
+some activities will require curling live sites so get used to doing that and saving local cached copies
+
 `# Environment Setup
 - Determine if running on MAC or PC before starting
 - Create TODO_MAC and TODO_PC files if missing
