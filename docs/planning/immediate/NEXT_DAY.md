@@ -65,6 +65,7 @@
 - Call about car window repair
 - Katie's Printify training
 - Begin sorting through Jim's belongings at Corrales property
+- **Remember to retrieve pedal rod from basement piano shop on next Corrales visit** (see [CORRALES_PIANO_PARTS.md](../../players/chip/CORRALES_PIANO_PARTS.md))
 - Share and integrate Gazelle piano calendar
 
 ## Expected Outcomes
